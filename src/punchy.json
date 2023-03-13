@@ -1,0 +1,1630 @@
+[
+  {
+    "id": "formalisation_formalisation_logic_reading",
+    "exercises": [
+      "reading_01",
+      "reading_02",
+      "reading_03",
+      "reading_04",
+      "reading_05",
+      "reading_06",
+      "reading_08",
+      "reading_09",
+      "reading_10",
+      "reading_11",
+      "reading_12",
+      "reading_13",
+      "reading_14",
+      "reading_15",
+      "reading_07"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_logic_lumberjack",
+    "exercises": [
+      "lumberjack_01",
+      "lumberjack_02",
+      "lumberjack_03",
+      "lumberjack_04",
+      "lumberjack_05",
+      "lumberjack_06",
+      "lumberjack_07",
+      "lumberjack_08",
+      "lumberjack_09",
+      "lumberjack_10"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_logic_illness",
+    "exercises": [
+      "illness_01",
+      "illness_02",
+      "illness_03",
+      "illness_04"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_logic_happiness",
+    "exercises": [
+      "happiness_04",
+      "happiness_01",
+      "happiness_05",
+      "happiness_02",
+      "happiness_03"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_logic_tournament",
+    "exercises": [
+      "tournament_00",
+      "tournament_01",
+      "tournament_02",
+      "tournament_03",
+      "tournament_04"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_logic_acquaintance",
+    "exercises": [
+      "acquaintance_01",
+      "acquaintance_02",
+      "acquaintance_03",
+      "acquaintance_04"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_logic_nature",
+    "exercises": [
+      "nature_01",
+      "nature_02",
+      "nature_03",
+      "nature_04",
+      "nature_05",
+      "nature_06"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_logic_solar_system",
+    "exercises": [
+      "solar_system_01",
+      "solar_system_02",
+      "solar_system_03",
+      "solar_system_04",
+      "solar_system_05",
+      "solar_system_06",
+      "solar_system_07",
+      "solar_system_08",
+      "solar_system_09",
+      "solar_system_10",
+      "solar_system_11",
+      "solar_system_12",
+      "solar_system_13",
+      "solar_system_14",
+      "solar_system_15",
+      "solar_system_16",
+      "solar_system_17",
+      "solar_system_18"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_math_arithmetic",
+    "exercises": [
+      "arithmetic_01",
+      "arithmetic_02",
+      "arithmetic_03",
+      "arithmetic_04"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_math_function",
+    "exercises": [
+      "function_01",
+      "function_02",
+      "function_03",
+      "function_04",
+      "function_05"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_math_series",
+    "exercises": [
+      "function_10",
+      "function_11",
+      "function_07",
+      "function_09",
+      "function_08",
+      "function_06"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_math_geometry",
+    "exercises": [
+      "geometry_01",
+      "geometry_02",
+      "geometry_03",
+      "geometry_04",
+      "geometry_05",
+      "geometry_06",
+      "geometry_07"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_01",
+    "exercises": [
+      "chess_with_var_01_01",
+      "chess_with_var_01_02",
+      "chess_with_var_01_03",
+      "chess_with_var_01_04",
+      "chess_with_var_01_05",
+      "chess_with_var_01_06",
+      "chess_with_var_01_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_02",
+    "exercises": [
+      "chess_with_var_02_01",
+      "chess_with_var_02_02",
+      "chess_with_var_02_03",
+      "chess_with_var_02_04",
+      "chess_with_var_02_05",
+      "chess_with_var_02_06",
+      "chess_with_var_02_07",
+      "chess_with_var_02_08",
+      "chess_with_var_02_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_03",
+    "exercises": [
+      "chess_with_var_03_01",
+      "chess_with_var_03_02",
+      "chess_with_var_03_03",
+      "chess_with_var_03_04",
+      "chess_with_var_03_05",
+      "chess_with_var_03_06",
+      "chess_with_var_03_07",
+      "chess_with_var_03_08",
+      "chess_with_var_03_09",
+      "chess_with_var_03_10",
+      "chess_with_var_03_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_04",
+    "exercises": [
+      "chess_with_var_04_01",
+      "chess_with_var_04_02",
+      "chess_with_var_04_03",
+      "chess_with_var_04_04",
+      "chess_with_var_04_05",
+      "chess_with_var_04_06",
+      "chess_with_var_04_07",
+      "chess_with_var_04_08",
+      "chess_with_var_04_model",
+      "chess_with_var_04_09",
+      "chess_with_var_04_model_2"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_05",
+    "exercises": [
+      "chess_with_var_05_01",
+      "chess_with_var_05_02"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_06",
+    "exercises": [
+      "chess_with_var_06_00",
+      "chess_with_var_06_01",
+      "chess_with_var_06_02",
+      "chess_with_var_06_03",
+      "chess_with_var_06_04",
+      "chess_with_var_06_05",
+      "chess_with_var_06_06",
+      "chess_with_var_06_07",
+      "chess_with_var_06_08",
+      "chess_with_var_06_09",
+      "chess_with_var_06_10",
+      "chess_with_var_06_11",
+      "chess_with_var_06_12",
+      "chess_with_var_06_13",
+      "chess_with_var_06_14",
+      "chess_with_var_06_15",
+      "chess_with_var_06_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_07",
+    "exercises": [
+      "chess_with_var_07_00",
+      "chess_with_var_07_01",
+      "chess_with_var_07_02",
+      "chess_with_var_07_03",
+      "chess_with_var_07_04",
+      "chess_with_var_07_05",
+      "chess_with_var_07_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_08",
+    "exercises": [
+      "chess_with_var_08_00",
+      "chess_with_var_08_01",
+      "chess_with_var_08_02",
+      "chess_with_var_08_03",
+      "chess_with_var_08_04",
+      "chess_with_var_08_05",
+      "chess_with_var_08_06",
+      "chess_with_var_08_07",
+      "chess_with_var_08_08",
+      "chess_with_var_08_09",
+      "chess_with_var_08_10",
+      "chess_with_var_08_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_09",
+    "exercises": [
+      "chess_with_var_09_02",
+      "chess_with_var_09_03",
+      "chess_with_var_09_01"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_10",
+    "exercises": [
+      "chess_with_var_10_01",
+      "chess_with_var_10_02",
+      "chess_with_var_10_03",
+      "chess_with_var_10_04",
+      "chess_with_var_10_05",
+      "chess_with_var_10_06",
+      "chess_with_var_10_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_11",
+    "exercises": [
+      "chess_with_var_11_01",
+      "chess_with_var_11_03",
+      "chess_with_var_11_04",
+      "chess_with_var_11_05",
+      "chess_with_var_11_06",
+      "chess_with_var_11_07",
+      "chess_with_var_11_10",
+      "chess_with_var_11_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_with_var_12",
+    "exercises": [
+      "chess_with_var_12_01",
+      "chess_with_var_12_02",
+      "chess_with_var_12_03",
+      "chess_with_var_12_04",
+      "chess_with_var_12_05",
+      "chess_with_var_12_06",
+      "chess_with_var_12_model"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_chess_chess_section_sandbox",
+    "exercises": [
+      "chess_predicates",
+      "chess_sandbox"
+    ]
+  },
+  {
+    "id": "formalisation_formalisation_programming_programming",
+    "exercises": [
+      "programming_01"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_tutorial",
+    "exercises": [
+      "logic_connector_tuto_imply_01",
+      "logic_connector_tuto_imply_02",
+      "logic_connector_syllogism",
+      "logic_connector_tuto_conj_01",
+      "logic_connector_tuto_conj_02",
+      "logic_connector_tuto_conj_03",
+      "logic_connector_tuto_conj_04",
+      "logic_connector_tuto_conj_05",
+      "logic_connector_tuto_disjunction_01",
+      "logic_connector_tuto_disjunction_02",
+      "logic_connector_tuto_disjunction_03",
+      "logic_connector_tuto_disjunction_04",
+      "logic_connector_tuto_disjunction_05",
+      "logic_connector_tuto_negation_01",
+      "logic_connector_tuto_negation_02",
+      "logic_connector_tuto_negation_03",
+      "logic_connector_tuto_negation_04",
+      "logic_connector_tuto_negation_05",
+      "logic_connector_tuto_negation_01_nofalse",
+      "logic_connector_tuto_negation_02_nofalse",
+      "logic_connector_tuto_equivalence_01",
+      "logic_connector_tuto_equivalence_02",
+      "logic_connector_tuto_equivalence_03",
+      "logic_connector_tuto_classical_01",
+      "logic_connector_tuto_classical_02",
+      "logic_connector_tuto_classical_03",
+      "logic_connector_tuto_classical_04"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_training",
+    "exercises": [
+      "logic_connector_training_01",
+      "logic_connector_training_02"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_constructivism",
+    "exercises": [
+      "logic_connector_constructivism_01",
+      "logic_connector_constructivism_02",
+      "logic_connector_constructivism_03",
+      "logic_connector_constructivism_04",
+      "logic_connector_constructivism_05",
+      "logic_connector_constructivism_06",
+      "logic_connector_constructivism_07",
+      "logic_connector_constructivism_08",
+      "logic_connector_constructivism_09",
+      "logic_connector_constructivism_10",
+      "logic_connector_constructivism_11",
+      "logic_connector_constructivism_12",
+      "logic_connector_constructivism_13",
+      "logic_connector_constructivism_14"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_associativity",
+    "exercises": [
+      "logic_connector_associativity_conjunction",
+      "logic_connector_associativity_disjunction"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_reasoning",
+    "exercises": [
+      "logic_connector_contraposition_1_2",
+      "logic_connector_contraposition_2_2"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_negation",
+    "exercises": [
+      "logic_connector_negation_000",
+      "logic_connector_negation_00",
+      "logic_connector_negation_01",
+      "logic_connector_negation_02",
+      "logic_connector_negation_03",
+      "logic_connector_negation_04",
+      "logic_connector_negation_05",
+      "logic_connector_negation_06",
+      "logic_connector_negation_07",
+      "logic_connector_negation_08"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_classical",
+    "exercises": [
+      "logic_connector_classical_000",
+      "logic_connector_classical_00",
+      "logic_connector_classical_01",
+      "logic_connector_classical_02",
+      "logic_connector_classical_03",
+      "logic_connector_classical_04",
+      "logic_connector_classical_05",
+      "logic_connector_classical_06",
+      "logic_connector_classical_07",
+      "logic_connector_classical_08",
+      "logic_connector_classical_09",
+      "logic_connector_classical_10",
+      "logic_connector_classical_11"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_distributivity",
+    "exercises": [
+      "logic_connector_distributivity_and_imply_left_0",
+      "logic_connector_distributivity_and_or_left",
+      "logic_connector_distributivity_or_and_left",
+      "logic_connector_distributivity_or_imply_left",
+      "logic_connector_distributivity_imply_and_left",
+      "logic_connector_distributivity_imply_or_left",
+      "logic_connector_distributivity_imply_imply_left"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_relation",
+    "exercises": [
+      "logic_connector_relation_imply_or_right_and_imply",
+      "logic_connector_relation_imply_and_right_or_imply"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_logic_connector_deMorgan_laws",
+    "exercises": [
+      "logic_connector_deMorgan_not_or_equiv_and_not",
+      "logic_connector_deMorgan_or_not_imply_not_and",
+      "logic_connector_deMorgan_not_and_imply_or_not"
+    ]
+  },
+  {
+    "id": "logic_logic_connector_abs_cb_peirce",
+    "exercises": [
+      "logic_connector_acp_abs_by_cb",
+      "logic_connector_acp_cb_by_abs",
+      "logic_connector_acp_peirce_by_cb",
+      "logic_connector_acp_cb_by_peirce",
+      "logic_connector_acp_abs_by_peirce",
+      "logic_connector_acp_peirce_by_abs"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_tutorial",
+    "exercises": [
+      "logic_quantifier_tuto_01",
+      "logic_quantifier_tuto_03",
+      "logic_quantifier_tuto_04",
+      "logic_quantifier_tuto_05",
+      "logic_quantifier_tuto_00",
+      "logic_quantifier_tuto_02",
+      "logic_quantifier_tuto_06",
+      "logic_quantifier_tuto_08"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_existence",
+    "exercises": [
+      "logic_quantifier_existence_01",
+      "logic_quantifier_existence_02",
+      "logic_quantifier_existence_03"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_syllogism",
+    "exercises": [
+      "logic_quantifier_syllogism_00",
+      "logic_quantifier_syllogism_01",
+      "logic_quantifier_syllogism_02",
+      "logic_quantifier_syllogism_03"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_equivalence",
+    "exercises": [
+      "quantifier_equivalence_forall_and",
+      "quantifier_equivalence_forall_or",
+      "quantifier_equivalence_exists_and",
+      "quantifier_equivalence_exists_or",
+      "quantifier_equivalence_forall_exists_imply",
+      "quantifier_equivalence_exists_forall_imply",
+      "quantifier_equivalence_forall_forall_imply",
+      "quantifier_equivalence_exists_exists_imply"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_expansion",
+    "exercises": [
+      "logic_quantifier_expansion_01",
+      "logic_quantifier_expansion_02",
+      "logic_quantifier_expansion_03",
+      "logic_quantifier_expansion_04"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_commutativity",
+    "exercises": [
+      "logic_quantifier_commutativity_00",
+      "logic_quantifier_commutativity_01",
+      "logic_quantifier_commutativity_02"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_demorgan",
+    "exercises": [
+      "logic_quantifier_demorgan_01",
+      "logic_quantifier_demorgan_02",
+      "logic_quantifier_demorgan_03",
+      "logic_quantifier_demorgan_04",
+      "logic_quantifier_demorgan_05"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_misc",
+    "exercises": [
+      "quantifier_018",
+      "quantifier_020",
+      "quantifier_019",
+      "quantifier_001",
+      "quantifier_002",
+      "quantifier_003",
+      "quantifier_004",
+      "quantifier_005",
+      "quantifier_006",
+      "quantifier_009",
+      "quantifier_010",
+      "quantifier_013",
+      "quantifier_014",
+      "quantifier_015",
+      "quantifier_016",
+      "quantifier_017"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_good_bad",
+    "exercises": [
+      "good_bad_01",
+      "good_bad_02",
+      "good_bad_03",
+      "logic_good_bad_01",
+      "logic_good_bad_02",
+      "logic_good_bad_03",
+      "logic_good_bad_04"
+    ]
+  },
+  {
+    "id": "logic_logic_quantifier_enigma",
+    "exercises": [
+      "logic_enigma_scottish",
+      "logic_enigma_rich"
+    ]
+  },
+  {
+    "id": "settheory_set_tuto_tutorial",
+    "exercises": [
+      "setops_tuto_02",
+      "logic_settheory_tuto_01",
+      "logic_settheory_tuto_05",
+      "setops_tuto_18",
+      "setlogic_tuto_1",
+      "set_tuto_move",
+      "setlogic_tuto_12",
+      "setlogic_tuto_5",
+      "set_rewops_tuto_01",
+      "tuto_rew2_3",
+      "setops_tuto_21",
+      "set_rewops_tuto_02",
+      "tuto_rew2_1",
+      "tuto_rew2_2",
+      "tuto_rew_6",
+      "tuto_rew_8",
+      "tuto_rew_10"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_reflexivity",
+    "exercises": [
+      "set_ex_reflexivity",
+      "set_ex_reflexivity2"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_idempotence",
+    "exercises": [
+      "set_ex_idempotence_1",
+      "set_ex_idempotence_2"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_neutral",
+    "exercises": [
+      "set_ex_neutral_1",
+      "set_ex_neutral_2"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_emptyset",
+    "exercises": [
+      "set_ex_emptyset_1",
+      "logic_settheory_tuto_07",
+      "setops_tuto_33",
+      "setops_tuto_48",
+      "setops_tuto_31"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_difference",
+    "exercises": [
+      "set_ex_defdiff"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_absorption",
+    "exercises": [
+      "set_ex_absorption_1",
+      "set_ex_absorption_2",
+      "set_ex_absorption_3",
+      "set_ex_absorption_4",
+      "set_ex_absorption_5",
+      "set_ex_absorption_6"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_inclusion",
+    "exercises": [
+      "set_ex_inclusion_1",
+      "set_ex_inclusion_2"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_simplification",
+    "exercises": [
+      "set_ex_simplification_1",
+      "set_ex_simplification_2",
+      "set_ex_simplification_3",
+      "set_ex_simplification_4"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_excluded_middle",
+    "exercises": [
+      "set_ex_set_excluded_middle_1",
+      "set_ex_set_excluded_middle_2"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_deMorgan",
+    "exercises": [
+      "logic_quantifier_ex_03",
+      "logic_quantifier_ex_04"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_absurd",
+    "exercises": [
+      "set_ex_absurd"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_distributivity",
+    "exercises": [
+      "logic_quantifier_ex_01",
+      "logic_quantifier_ex_02",
+      "logic_set_operator_01",
+      "logic_set_operator_02",
+      "logic_quantifier_ex_06",
+      "logic_quantifier_ex_le_37",
+      "logic_quantifier_ex_le_38"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_operation",
+    "exercises": [
+      "set_ex_operation_1",
+      "set_ex_operation_2",
+      "set_ex_operation_3",
+      "set_ex_operation_4"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_monotonicity",
+    "exercises": [
+      "set_ex_monotonicity_1",
+      "set_ex_monotonicity_2",
+      "set_ex_monotonicity_3",
+      "set_ex_monotonicity_4",
+      "set_ex_monotonicity_5"
+    ]
+  },
+  {
+    "id": "settheory_set_properties_set_combination",
+    "exercises": [
+      "set_ex_combination_1",
+      "set_ex_combination_2",
+      "set_ex_combination_3",
+      "set_ex_combination_4",
+      "set_ex_combination_5"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_subset",
+    "exercises": [
+      "setops_tuto_22",
+      "setops_tuto_41",
+      "setops_tuto_37",
+      "setops_tuto_38"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_cartesianp",
+    "exercises": [
+      "setops_tuto_28",
+      "setops_tuto_15"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_projection",
+    "exercises": [
+      "setops_tuto_16",
+      "setops_tuto_17"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_difference",
+    "exercises": [
+      "setops_tuto_05",
+      "set_rewops_tuto_30",
+      "set_rewops_tuto_31"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_excluded",
+    "exercises": [
+      "set_rewops_tuto_13",
+      "set_rewops_tuto_14"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_absurd",
+    "exercises": [
+      "set_rewops_tuto_15"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_scomp",
+    "exercises": [
+      "setops_tuto_11",
+      "logic_settheory_tuto_04",
+      "set_ex_inclusion_3",
+      "set_rewops_tuto_12"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_inclusion",
+    "exercises": [
+      "setops_tuto_25",
+      "logic_quantifier_ex_le_36",
+      "setops_tuto_26",
+      "setops_tuto_30",
+      "set_tuto_inclusion"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_leftright",
+    "exercises": [
+      "set_tuto_lrinter",
+      "set_tuto_lrunion",
+      "set_tuto_lrdiff",
+      "set_tuto_lrcomp"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_combinations",
+    "exercises": [
+      "set_tuto_comb_inter",
+      "set_tuto_comb_union",
+      "logic_set_rewrite_12",
+      "logic_set_rewrite_13",
+      "logic_settheory_tuto_10",
+      "setops_tuto_24",
+      "setops_tuto_29",
+      "setops_tuto_47"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_setprop",
+    "exercises": [
+      "logic_set_operator_07",
+      "setops_tuto_32",
+      "setops_tuto_27",
+      "logic_set_operator_04"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_setdemorgan",
+    "exercises": [
+      "set_rewops_tuto_11"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_svoid",
+    "exercises": [
+      "setops_tuto_34",
+      "setops_tuto_36"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_simplification",
+    "exercises": [
+      "set_rewops_tuto_04",
+      "set_rewops_tuto_09",
+      "set_rewops_tuto_10",
+      "logic_set_rewrite_05",
+      "logic_set_rewrite_06",
+      "set_tuto_comb_union2",
+      "set_tuto_comb_inter2"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_transitivity",
+    "exercises": [
+      "logic_set_rewrite_09",
+      "logic_set_rewrite_10",
+      "logic_set_rewrite_01"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_distributivity",
+    "exercises": [
+      "tuto_rew_9",
+      "set_rewops_tuto_07",
+      "tuto_rew2_4",
+      "set_rewops_tuto_08"
+    ]
+  },
+  {
+    "id": "settheory_set_operators_set_difficult",
+    "exercises": [
+      "logic_set_rewrite_19",
+      "logic_set_rewrite_14",
+      "logic_set_rewrite_15",
+      "logic_set_rewrite_16",
+      "logic_set_rewrite_17",
+      "logic_set_operator_05",
+      "logic_set_operator_06"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_relationgraph",
+    "exercises": [
+      "logic_rel_tuto_graph"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_injectivity",
+    "exercises": [
+      "logic_rel_tuto_01",
+      "logic_rel_tuto_03"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_surjectivity",
+    "exercises": [
+      "logic_rel_tuto_05",
+      "logic_rel_tuto_07"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_set_operations",
+    "exercises": [
+      "logic_rel_tuto_09",
+      "logic_rel_tuto_10"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_binrel",
+    "exercises": [
+      "logic_rel_tuto_11",
+      "logic_rel_tuto_irrefl",
+      "logic_rel_tuto_12",
+      "logic_rel_tuto_16",
+      "logic_rel_tuto_13",
+      "logic_rel_tuto_14",
+      "logic_rel_tuto_15"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_remarkset",
+    "exercises": [
+      "logic_rel_tuto_17",
+      "logic_quantifier_ex_le_15"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_relation_tilda",
+    "exercises": [
+      "logic_rel_tuto_02",
+      "logic_rel_tuto_04",
+      "logic_rel_tuto_06",
+      "logic_rel_tuto_08",
+      "logic_tilda_01",
+      "logic_tilda_02",
+      "logic_tilda_03",
+      "logic_tilda_04"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_relequiv",
+    "exercises": [
+      "logic_quantifier_ex_le_16",
+      "logic_quantifier_ex_le_17"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_relcar",
+    "exercises": [
+      "logic_quantifier_ex_le_20",
+      "logic_quantifier_ex_le_26",
+      "logic_quantifier_ex_le_25",
+      "logic_quantifier_ex_le_27"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_relcomp",
+    "exercises": [
+      "logic_quantifier_ex_le_28",
+      "logic_quantifier_ex_le_28_2",
+      "logic_quantifier_ex_le_30",
+      "logic_quantifier_ex_le_29",
+      "logic_quantifier_ex_le_47"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_reltrans",
+    "exercises": [
+      "logic_quantifier_ex_le_32",
+      "logic_quantifier_ex_le_31"
+    ]
+  },
+  {
+    "id": "settheory_logic_relation_relinv",
+    "exercises": [
+      "logic_quantifier_ex_le_08",
+      "logic_quantifier_ex_le_10",
+      "logic_quantifier_ex_le_23",
+      "logic_quantifier_ex_le_09",
+      "logic_quantifier_ex_le_19",
+      "logic_quantifier_ex_le_21",
+      "logic_quantifier_ex_le_22"
+    ]
+  },
+  {
+    "id": "settheory_logic_function_image_function",
+    "exercises": [
+      "tuto_function_021",
+      "tuto_function_023",
+      "tuto_function_022",
+      "tuto_function_12",
+      "tuto_function_04",
+      "tuto_function_03",
+      "tuto_function_10",
+      "tuto_function_02"
+    ]
+  },
+  {
+    "id": "settheory_logic_function_fun_properties",
+    "exercises": [
+      "tuto_function_05",
+      "tuto_function_06",
+      "tuto_function_07",
+      "tuto_function_08"
+    ]
+  },
+  {
+    "id": "settheory_logic_function_funcomp",
+    "exercises": [
+      "tuto_function_09"
+    ]
+  },
+  {
+    "id": "settheory_logic_function_funsurj",
+    "exercises": [
+      "logic_quantifier_ex_le_44",
+      "logic_quantifier_ex_le_48",
+      "logic_quantifier_ex_le_12",
+      "tuto_function_11",
+      "logic_quantifier_ex_le_50"
+    ]
+  },
+  {
+    "id": "settheory_logic_function_finj",
+    "exercises": [
+      "logic_quantifier_ex_le_43",
+      "logic_quantifier_ex_le_52",
+      "logic_quantifier_ex_le_45",
+      "logic_quantifier_ex_le_11",
+      "logic_quantifier_ex_le_46",
+      "tuto_function_13",
+      "tuto_function_14",
+      "logic_quantifier_ex_le_49"
+    ]
+  },
+  {
+    "id": "settheory_logic_function_fun_inverse",
+    "exercises": [
+      "function_inverse_01",
+      "function_inverse_02",
+      "function_inverse_03"
+    ]
+  },
+  {
+    "id": "calculus_eq_seg_tutorial",
+    "exercises": [
+      "eq_2",
+      "eq_2_1",
+      "eq_2_2",
+      "eq_3",
+      "demo_tuto_first",
+      "demo_tuto_comb",
+      "eq_6",
+      "calc0_eqrel1",
+      "calc0_eqrel2",
+      "calc0_eqrel3",
+      "calc0_eqrel5",
+      "calc0_eqrel4",
+      "calc0_rewriting",
+      "calc0_rewriting2",
+      "calcl0_localdef1",
+      "calcl0_localdef2",
+      "calc0_chain1",
+      "calc0_chain2",
+      "calc0_chain3",
+      "calc0_chain4",
+      "neq_4",
+      "neq_5",
+      "eq_10"
+    ]
+  },
+  {
+    "id": "calculus_eq_seg_combinaison",
+    "exercises": [
+      "combinaison_01",
+      "combinaison_02",
+      "combinaison_03",
+      "combinaison_04"
+    ]
+  },
+  {
+    "id": "calculus_eq_seg_rewritings",
+    "exercises": [
+      "rewriting_01",
+      "rewriting_02",
+      "rewriting_03",
+      "rewriting_04"
+    ]
+  },
+  {
+    "id": "calculus_eq_seg_lrops",
+    "exercises": [
+      "demo_tuto_ex4",
+      "demo_tuto_ex8",
+      "demo_tuto_ex9",
+      "demo_tuto_ex11"
+    ]
+  },
+  {
+    "id": "calculus_eq_seg_rew_equation",
+    "exercises": [
+      "eq_1",
+      "rew_ex_19",
+      "demo_easy_ex_01"
+    ]
+  },
+  {
+    "id": "calculus_eq_seg_comb",
+    "exercises": [
+      "demo_tuto_ex1",
+      "demo_tuto_ex1_1",
+      "demo_tuto_ex2",
+      "demo_tuto_ex2_1"
+    ]
+  },
+  {
+    "id": "calculus_rewrite_tutorial",
+    "exercises": [
+      "rew_tuto_evalsimpl",
+      "rew_tuto_updownsimpl",
+      "rew_tuto_simpl2",
+      "rew_tuto_misc1",
+      "rew_tuto_misc6",
+      "rew_tuto_simpl",
+      "rew_tuto_simpl4",
+      "rew_tuto_simpl3",
+      "rew_tuto_fact1",
+      "rew_tuto_fact2",
+      "rew_tuto_idrem1",
+      "rew_tuto_idrem2",
+      "rew_tuto_idrem3",
+      "rew_tuto_misc2",
+      "rew_tuto_misc3",
+      "rew_ops_1",
+      "rew_tuto_group"
+    ]
+  },
+  {
+    "id": "calculus_rewrite_rew_factorize",
+    "exercises": [
+      "rew_ex_11",
+      "rew_ex_10",
+      "rew_ex_7",
+      "rew_ex_8",
+      "rew_ex_13",
+      "rew_ex_14",
+      "rew_ex_15",
+      "rew_ex_20",
+      "rew_ex_21",
+      "rew_ex_9",
+      "rew_ex_12",
+      "demo_easy_ex_02"
+    ]
+  },
+  {
+    "id": "calculus_rewrite_rew_almostsquare",
+    "exercises": [
+      "rew_ex_16",
+      "rew_ex_17",
+      "rew_ex_18"
+    ]
+  },
+  {
+    "id": "calculus_rewrite_rew_canonical_form",
+    "exercises": [
+      "rew_canonical_form_01",
+      "rew_canonical_form_02",
+      "rew_canonical_form_03",
+      "rew_canonical_form_04",
+      "rew_canonical_form_05",
+      "rew_canonical_form_06",
+      "rew_canonical_form_07",
+      "rew_canonical_form_gen1",
+      "rew_canonical_form_08",
+      "rew_canonical_form_09",
+      "rew_canonical_form_10",
+      "rew_canonical_form_11",
+      "rew_canonical_form_12",
+      "rew_canonical_form_gen2"
+    ]
+  },
+  {
+    "id": "calculus_rewrite_rew3_equation",
+    "exercises": [
+      "rew_ex_34",
+      "rew_ex_35",
+      "rew_ex_36",
+      "demo_easy_ex_03",
+      "demo_tuto_ex5",
+      "demo_tuto_second",
+      "demo_ex_second"
+    ]
+  },
+  {
+    "id": "calculus_rewrite_rew_system",
+    "exercises": [
+      "rew_ex_37",
+      "demo_tuto_ex3",
+      "demo_tuto_ex7",
+      "rew_ex_24",
+      "rew_ex_23",
+      "rew_ex_25",
+      "rew_ex_33",
+      "rew_ex_27",
+      "rew_ex_26",
+      "rew_ex_28"
+    ]
+  },
+  {
+    "id": "calculus_ineq_seg_tutorial",
+    "exercises": [
+      "ineq_ex_15",
+      "ineq_ex_26",
+      "ineq_ex_27",
+      "ineq_ex_31",
+      "ineq_ex_33",
+      "ineq_ex_35",
+      "ineq_ex_25",
+      "ineq_ex_37",
+      "ineq_ex_20",
+      "ineq_ex_30",
+      "double_inequality_tuto_12",
+      "double_inequality_tuto_04",
+      "double_inequality_tuto_05",
+      "double_inequality_tuto_02"
+    ]
+  },
+  {
+    "id": "calculus_ineq_seg_ineqcomb",
+    "exercises": [
+      "ineq_comb_1",
+      "ineq_comb_2",
+      "ineq_comb_3",
+      "ineq_comb_4",
+      "ineq_comb_5",
+      "ineq_comb_6"
+    ]
+  },
+  {
+    "id": "calculus_ineq_seg_properties",
+    "exercises": [
+      "ineq_prop1",
+      "ineq_prop2"
+    ]
+  },
+  {
+    "id": "calculus_ineq_seg_ineqs",
+    "exercises": [
+      "ineq_ex_28",
+      "ineq_ex_16",
+      "ineq_ex_17",
+      "ineq_ex_18",
+      "ineq_ex_1",
+      "ineq_ex_2",
+      "ineq_ex_3",
+      "ineq_ex_4",
+      "ineq_ex_5",
+      "ineq_ex_19",
+      "ineq_ex_12"
+    ]
+  },
+  {
+    "id": "calculus_ineq_seg_misc",
+    "exercises": [
+      "ineq_ex_10",
+      "ineq_ex_11"
+    ]
+  },
+  {
+    "id": "calculus_rewrite2_tutorial",
+    "exercises": [
+      "power_distrib",
+      "power_distrib2",
+      "power_prod",
+      "power_prod2",
+      "power_power",
+      "zero_power",
+      "absrewriting_2",
+      "absrewriting_1",
+      "rew_sqrt_3",
+      "rew_sqrt_4",
+      "rew_sqrt_1",
+      "rew_sqrt_2",
+      "rew_sqrt_5"
+    ]
+  },
+  {
+    "id": "calculus_rewrite2_rew_conjugate",
+    "exercises": [
+      "rew_ex_1",
+      "rew_ex_2",
+      "rew_ex_3",
+      "rew_ex_4",
+      "rew_ex_5",
+      "rew_ex_6"
+    ]
+  },
+  {
+    "id": "calculus_rewrite2_rew3_almostsquare",
+    "exercises": [
+      "rew_ex_22",
+      "quadratic_equation_facto"
+    ]
+  },
+  {
+    "id": "calculus_rewrite2_rew_gold",
+    "exercises": [
+      "rew_ex_30",
+      "rew_ex_31",
+      "rew_ex_32"
+    ]
+  },
+  {
+    "id": "calculus_sigma_seg_tutorial",
+    "exercises": [
+      "sigma_ex_22",
+      "sigma_ex_18",
+      "sigma_ex_19",
+      "sigma_ex_24",
+      "sigma_ex_20",
+      "sigma_ex_25",
+      "sigma_ex_26",
+      "sigma_ex_27",
+      "sigma_ex_23",
+      "sigma_ex_28"
+    ]
+  },
+  {
+    "id": "calculus_sigma_seg_sigma_withref",
+    "exercises": [
+      "sigma_ex_7",
+      "sigma_ex_4",
+      "sigma_ex_5",
+      "sigma_ex_3",
+      "sigma_ex_1",
+      "sigma_ex_2",
+      "sigma_ex_6",
+      "sigma_ex_17"
+    ]
+  },
+  {
+    "id": "calculus_sigma_seg_sigma_telescop",
+    "exercises": [
+      "sigma_ex_29",
+      "sigma_ex_8",
+      "sigma_ex_13",
+      "sigma_ex_9"
+    ]
+  },
+  {
+    "id": "calculus_sigma_seg_sigma_ref",
+    "exercises": [
+      "sigma_ex_15",
+      "sigma_ex_16",
+      "sigma_ex_21",
+      "sigma_ex_30"
+    ]
+  },
+  {
+    "id": "calculus_prod_seg_tutorial",
+    "exercises": [
+      "prod_seg_tuto_prodlinear",
+      "prod_seg_tuto_proddistri",
+      "prod_seg_tuto_proddecompl",
+      "prod_seg_tuto_proddef",
+      "prod_seg_tuto_produpshift",
+      "prod_seg_tuto_prodinverse",
+      "prod_seg_tuto_factdef",
+      "prod_seg_tuto_factdecompl",
+      "prod_seg_tuto_factassoc",
+      "prod_seg_tuto_binomdef",
+      "prod_seg_tuto_binompascal",
+      "prod_seg_tuto_binomnewton"
+    ]
+  },
+  {
+    "id": "calculus_prod_seg_prod_seg_products",
+    "exercises": [
+      "prod_seg_tuto_proddistri2",
+      "prod_seg_ex01",
+      "prod_seg_ex02",
+      "prod_seg_ex03",
+      "prod_seg_ex04",
+      "prod_seg_ex05",
+      "prod_seg_ex09"
+    ]
+  },
+  {
+    "id": "calculus_prod_seg_prod_seg_fact",
+    "exercises": [
+      "prod_seg_fact_01",
+      "prod_seg_fact_03",
+      "prod_seg_fact_02",
+      "prod_seg_fact_04",
+      "prod_seg_fact_05"
+    ]
+  },
+  {
+    "id": "calculus_prod_seg_prod_seg_binom",
+    "exercises": [
+      "prod_seg_binom_01",
+      "prod_seg_binom_03",
+      "prod_seg_binom_08",
+      "prod_seg_binom_09"
+    ]
+  },
+  {
+    "id": "analysis_analysis_induction_ind_sum",
+    "exercises": [
+      "demo_tuto_sigma",
+      "demo_medium_ex_03",
+      "ind_tuto_4",
+      "induction_ex_01",
+      "induction_ex_02",
+      "induction_ex_03",
+      "induction_ex_04",
+      "induction_ex_05",
+      "demo_hard_ex_02"
+    ]
+  },
+  {
+    "id": "analysis_analysis_induction_ind_bernouilli",
+    "exercises": [
+      "demo_bernoulli_1",
+      "demo_bernoulli_2",
+      "induction_ex_11",
+      "induction_ex_12"
+    ]
+  },
+  {
+    "id": "analysis_analysis_induction_ind_divis",
+    "exercises": [
+      "demo_medium_ex_02",
+      "induction_ex_06",
+      "induction_ex_13",
+      "induction_ex_07",
+      "induction_ex_09",
+      "induction_ex_08",
+      "induction_ex_10"
+    ]
+  },
+  {
+    "id": "analysis_analysis_induction_ind_binom",
+    "exercises": [
+      "prod_seg_binom_04",
+      "induction_binomnewton"
+    ]
+  },
+  {
+    "id": "analysis_logic_inductive_list_section",
+    "exercises": [
+      "inductive_01"
+    ]
+  },
+  {
+    "id": "analysis_analysis_series_series_properties",
+    "exercises": [
+      "series_prop_01",
+      "series_prop_02"
+    ]
+  },
+  {
+    "id": "analysis_analysis_series_series_arith",
+    "exercises": [
+      "series_ex_01",
+      "series_ex_02",
+      "series_ex_08",
+      "series_ex_09",
+      "series_ex_10",
+      "series_ex_11",
+      "analysis_series_03",
+      "series_ex_33",
+      "analysis_series_04",
+      "series_ex_03",
+      "series_ex_04",
+      "series_ex_05",
+      "series_ex_06",
+      "series_ex_07"
+    ]
+  },
+  {
+    "id": "analysis_analysis_series_series_geo",
+    "exercises": [
+      "series_ex_011",
+      "series_ex_13",
+      "series_ex_14",
+      "series_ex_16",
+      "series_ex_17",
+      "series_ex_19",
+      "analysis_series_02"
+    ]
+  },
+  {
+    "id": "analysis_analysis_series_series_arithgeo",
+    "exercises": [
+      "series_ex_20",
+      "series_ex_34",
+      "series_ex_35"
+    ]
+  },
+  {
+    "id": "analysis_analysis_series_series_bounded",
+    "exercises": [
+      "series_ex_013",
+      "analysis_series_01",
+      "series_ex_21",
+      "series_ex_22",
+      "series_ex_23",
+      "series_ex_24",
+      "analysis_series_22",
+      "analysis_series_23",
+      "series_ex_12"
+    ]
+  },
+  {
+    "id": "analysis_analysis_series_series_variation",
+    "exercises": [
+      "series_ex_012",
+      "series_ex_25",
+      "series_ex_26",
+      "series_ex_27",
+      "series_ex_28",
+      "series_ex_29",
+      "series_ex_30",
+      "series_ex_31",
+      "series_ex_32",
+      "series_ex_18"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_constant",
+    "exercises": [
+      "basicfun_001",
+      "basicfun_003",
+      "basicfun_002"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_identity",
+    "exercises": [
+      "basicfun_01",
+      "basicfun_02",
+      "basicfun_03"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_inverse",
+    "exercises": [
+      "basicfun_04",
+      "basicfun_05",
+      "basicfun_06",
+      "basicfun_07"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_square",
+    "exercises": [
+      "basicfun_09",
+      "basicfun_10"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_sqrt",
+    "exercises": [
+      "basicfun_12"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_power",
+    "exercises": [
+      "power_01",
+      "geometric_02",
+      "geometric_01",
+      "geometric_03"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_limits_properties",
+    "exercises": [
+      "ex_analysis_limit_05",
+      "ex_analysis_limit_07",
+      "ex_analysis_limit_08",
+      "ex_analysis_limit_06",
+      "ex_analysis_limit_12",
+      "ex_analysis_limit_10",
+      "ex_analysis_limit_11",
+      "ex_analysis_limit_09"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_limits_series",
+    "exercises": [
+      "analysis_series_20",
+      "analysis_series_001",
+      "analysis_series_08",
+      "analysis_series_09",
+      "analysis_series_10",
+      "analysis_series_11",
+      "analysis_series_12",
+      "analysis_series_13",
+      "analysis_series_16",
+      "limits_ex_01",
+      "limits_ex_02",
+      "limits_ex_03",
+      "limits_ex_04",
+      "limit_series_02",
+      "limit_series_03",
+      "analysis_limit_004"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_limits_inf",
+    "exercises": [
+      "analysis_limits_tuto_01",
+      "analysis_limits_01",
+      "analysis_limits_05",
+      "analysis_limits_06",
+      "analysis_limits_07",
+      "analysis_limits_08",
+      "analysis_limits_09",
+      "analysis_limits_10",
+      "analysis_limits_11",
+      "analysis_limits_12",
+      "analysis_limits_tuto_03"
+    ]
+  },
+  {
+    "id": "analysis_analysis_limits_limits_finite",
+    "exercises": [
+      "analysis_limits_02",
+      "analysis_limits_03",
+      "analysis_limits_04",
+      "limits_ex_05",
+      "limits_ex_06",
+      "limits_ex_07"
+    ]
+  }
+]
