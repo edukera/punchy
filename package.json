@@ -1,0 +1,31 @@
+{
+  "name": "edukera4punchy",
+  "version": "1.0.0",
+  "description": "Edukera exercices as H5P resources for Punchy",
+  "main": "get_h5p.js",
+  "scripts": {
+    "generate": "node ./src/gen_punchy.js > ./jsons/punchy.json",
+    "clean": "rm -rf build",
+    "build": "node ./src/gen_h5p.js; mv ./build/*/*.h5p ./build; rm -rf ./build/*/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edukera/punchy.git"
+  },
+  "keywords": [
+    "mathematics",
+    "edukera",
+    "punchy",
+    "h5P"
+  ],
+  "author": "Edukera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edukera/punchy/issues"
+  },
+  "homepage": "https://github.com/edukera/punchy#readme",
+  "dependencies": {
+    "archiver": "^5.3.1",
+    "fs-extra": "^11.1.0"
+  }
+}

@@ -1,4 +1,4 @@
-const pager = require('./pager.json');
+const pager = require('../jsons/pager.json');
 var punchy = [];
 const get_section_exercices = section => {
   var res = []
