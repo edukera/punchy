@@ -23,17 +23,23 @@ for (var i=4; i < 9; i++) {
       const chapter  = part[k]
       const tutorial = chapter["Tutorial"]
       if (tutorial != undefined) {
+        const exercices = get_tutorial_exercises(tutorial)
         punchy.push({
           id : part.id + '_' + chapter.id + '_tutorial',
-          exercises : get_tutorial_exercises(tutorial)
+          exercises : exercices,
+          trad_id : chapter.id,
+          nb : exercices.length
         })
       }
       const exercises = chapter["Exercises"]
       if (exercises != undefined) {
         Object.keys(exercises).forEach(section => {
+          const exercices = get_section_exercices(exercises[section])
           punchy.push({
             id : part.id + '_' + chapter.id + '_' + exercises[section].id,
-            exercises : get_section_exercices(exercises[section])
+            exercises : exercices,
+            trad_id : exercises[section].id,
+            nb : exercices.length
           })
         })
       }

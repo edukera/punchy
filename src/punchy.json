@@ -17,7 +17,9 @@
       "reading_14",
       "reading_15",
       "reading_07"
-    ]
+    ],
+    "trad_id": "reading",
+    "nb": 15
   },
   {
     "id": "formalisation_formalisation_logic_lumberjack",
@@ -32,7 +34,9 @@
       "lumberjack_08",
       "lumberjack_09",
       "lumberjack_10"
-    ]
+    ],
+    "trad_id": "lumberjack",
+    "nb": 10
   },
   {
     "id": "formalisation_formalisation_logic_illness",
@@ -41,7 +45,9 @@
       "illness_02",
       "illness_03",
       "illness_04"
-    ]
+    ],
+    "trad_id": "illness",
+    "nb": 4
   },
   {
     "id": "formalisation_formalisation_logic_happiness",
@@ -51,7 +57,9 @@
       "happiness_05",
       "happiness_02",
       "happiness_03"
-    ]
+    ],
+    "trad_id": "happiness",
+    "nb": 5
   },
   {
     "id": "formalisation_formalisation_logic_tournament",
@@ -61,7 +69,9 @@
       "tournament_02",
       "tournament_03",
       "tournament_04"
-    ]
+    ],
+    "trad_id": "tournament",
+    "nb": 5
   },
   {
     "id": "formalisation_formalisation_logic_acquaintance",
@@ -70,7 +80,9 @@
       "acquaintance_02",
       "acquaintance_03",
       "acquaintance_04"
-    ]
+    ],
+    "trad_id": "acquaintance",
+    "nb": 4
   },
   {
     "id": "formalisation_formalisation_logic_nature",
@@ -81,7 +93,9 @@
       "nature_04",
       "nature_05",
       "nature_06"
-    ]
+    ],
+    "trad_id": "nature",
+    "nb": 6
   },
   {
     "id": "formalisation_formalisation_logic_solar_system",
@@ -104,7 +118,9 @@
       "solar_system_16",
       "solar_system_17",
       "solar_system_18"
-    ]
+    ],
+    "trad_id": "solar_system",
+    "nb": 18
   },
   {
     "id": "formalisation_formalisation_math_arithmetic",
@@ -113,7 +129,9 @@
       "arithmetic_02",
       "arithmetic_03",
       "arithmetic_04"
-    ]
+    ],
+    "trad_id": "arithmetic",
+    "nb": 4
   },
   {
     "id": "formalisation_formalisation_math_function",
@@ -123,7 +141,9 @@
       "function_03",
       "function_04",
       "function_05"
-    ]
+    ],
+    "trad_id": "function",
+    "nb": 5
   },
   {
     "id": "formalisation_formalisation_math_series",
@@ -134,7 +154,9 @@
       "function_09",
       "function_08",
       "function_06"
-    ]
+    ],
+    "trad_id": "series",
+    "nb": 6
   },
   {
     "id": "formalisation_formalisation_math_geometry",
@@ -146,7 +168,9 @@
       "geometry_05",
       "geometry_06",
       "geometry_07"
-    ]
+    ],
+    "trad_id": "geometry",
+    "nb": 7
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_01",
@@ -158,7 +182,9 @@
       "chess_with_var_01_05",
       "chess_with_var_01_06",
       "chess_with_var_01_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_01",
+    "nb": 7
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_02",
@@ -172,7 +198,9 @@
       "chess_with_var_02_07",
       "chess_with_var_02_08",
       "chess_with_var_02_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_02",
+    "nb": 9
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_03",
@@ -188,7 +216,9 @@
       "chess_with_var_03_09",
       "chess_with_var_03_10",
       "chess_with_var_03_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_03",
+    "nb": 11
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_04",
@@ -204,14 +234,18 @@
       "chess_with_var_04_model",
       "chess_with_var_04_09",
       "chess_with_var_04_model_2"
-    ]
+    ],
+    "trad_id": "chess_with_var_04",
+    "nb": 11
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_05",
     "exercises": [
       "chess_with_var_05_01",
       "chess_with_var_05_02"
-    ]
+    ],
+    "trad_id": "chess_with_var_05",
+    "nb": 2
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_06",
@@ -233,7 +267,9 @@
       "chess_with_var_06_14",
       "chess_with_var_06_15",
       "chess_with_var_06_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_06",
+    "nb": 17
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_07",
@@ -245,7 +281,9 @@
       "chess_with_var_07_04",
       "chess_with_var_07_05",
       "chess_with_var_07_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_07",
+    "nb": 7
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_08",
@@ -262,7 +300,9 @@
       "chess_with_var_08_09",
       "chess_with_var_08_10",
       "chess_with_var_08_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_08",
+    "nb": 12
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_09",
@@ -270,7 +310,9 @@
       "chess_with_var_09_02",
       "chess_with_var_09_03",
       "chess_with_var_09_01"
-    ]
+    ],
+    "trad_id": "chess_with_var_09",
+    "nb": 3
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_10",
@@ -282,7 +324,9 @@
       "chess_with_var_10_05",
       "chess_with_var_10_06",
       "chess_with_var_10_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_10",
+    "nb": 7
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_11",
@@ -295,7 +339,9 @@
       "chess_with_var_11_07",
       "chess_with_var_11_10",
       "chess_with_var_11_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_11",
+    "nb": 8
   },
   {
     "id": "formalisation_formalisation_chess_chess_with_var_12",
@@ -307,20 +353,26 @@
       "chess_with_var_12_05",
       "chess_with_var_12_06",
       "chess_with_var_12_model"
-    ]
+    ],
+    "trad_id": "chess_with_var_12",
+    "nb": 7
   },
   {
     "id": "formalisation_formalisation_chess_chess_section_sandbox",
     "exercises": [
       "chess_predicates",
       "chess_sandbox"
-    ]
+    ],
+    "trad_id": "chess_section_sandbox",
+    "nb": 2
   },
   {
     "id": "formalisation_formalisation_programming_programming",
     "exercises": [
       "programming_01"
-    ]
+    ],
+    "trad_id": "programming",
+    "nb": 1
   },
   {
     "id": "logic_logic_connector_tutorial",
@@ -352,14 +404,18 @@
       "logic_connector_tuto_classical_02",
       "logic_connector_tuto_classical_03",
       "logic_connector_tuto_classical_04"
-    ]
+    ],
+    "trad_id": "logic_connector",
+    "nb": 27
   },
   {
     "id": "logic_logic_connector_logic_connector_training",
     "exercises": [
       "logic_connector_training_01",
       "logic_connector_training_02"
-    ]
+    ],
+    "trad_id": "logic_connector_training",
+    "nb": 2
   },
   {
     "id": "logic_logic_connector_logic_connector_constructivism",
@@ -378,21 +434,27 @@
       "logic_connector_constructivism_12",
       "logic_connector_constructivism_13",
       "logic_connector_constructivism_14"
-    ]
+    ],
+    "trad_id": "logic_connector_constructivism",
+    "nb": 14
   },
   {
     "id": "logic_logic_connector_logic_connector_associativity",
     "exercises": [
       "logic_connector_associativity_conjunction",
       "logic_connector_associativity_disjunction"
-    ]
+    ],
+    "trad_id": "logic_connector_associativity",
+    "nb": 2
   },
   {
     "id": "logic_logic_connector_logic_connector_reasoning",
     "exercises": [
       "logic_connector_contraposition_1_2",
       "logic_connector_contraposition_2_2"
-    ]
+    ],
+    "trad_id": "logic_connector_reasoning",
+    "nb": 2
   },
   {
     "id": "logic_logic_connector_logic_connector_negation",
@@ -407,7 +469,9 @@
       "logic_connector_negation_06",
       "logic_connector_negation_07",
       "logic_connector_negation_08"
-    ]
+    ],
+    "trad_id": "logic_connector_negation",
+    "nb": 10
   },
   {
     "id": "logic_logic_connector_logic_connector_classical",
@@ -425,7 +489,9 @@
       "logic_connector_classical_09",
       "logic_connector_classical_10",
       "logic_connector_classical_11"
-    ]
+    ],
+    "trad_id": "logic_connector_classical",
+    "nb": 13
   },
   {
     "id": "logic_logic_connector_logic_connector_distributivity",
@@ -437,14 +503,18 @@
       "logic_connector_distributivity_imply_and_left",
       "logic_connector_distributivity_imply_or_left",
       "logic_connector_distributivity_imply_imply_left"
-    ]
+    ],
+    "trad_id": "logic_connector_distributivity",
+    "nb": 7
   },
   {
     "id": "logic_logic_connector_logic_connector_relation",
     "exercises": [
       "logic_connector_relation_imply_or_right_and_imply",
       "logic_connector_relation_imply_and_right_or_imply"
-    ]
+    ],
+    "trad_id": "logic_connector_relation",
+    "nb": 2
   },
   {
     "id": "logic_logic_connector_logic_connector_deMorgan_laws",
@@ -452,7 +522,9 @@
       "logic_connector_deMorgan_not_or_equiv_and_not",
       "logic_connector_deMorgan_or_not_imply_not_and",
       "logic_connector_deMorgan_not_and_imply_or_not"
-    ]
+    ],
+    "trad_id": "logic_connector_deMorgan_laws",
+    "nb": 3
   },
   {
     "id": "logic_logic_connector_abs_cb_peirce",
@@ -463,7 +535,9 @@
       "logic_connector_acp_cb_by_peirce",
       "logic_connector_acp_abs_by_peirce",
       "logic_connector_acp_peirce_by_abs"
-    ]
+    ],
+    "trad_id": "abs_cb_peirce",
+    "nb": 6
   },
   {
     "id": "logic_logic_quantifier_tutorial",
@@ -476,7 +550,9 @@
       "logic_quantifier_tuto_02",
       "logic_quantifier_tuto_06",
       "logic_quantifier_tuto_08"
-    ]
+    ],
+    "trad_id": "logic_quantifier",
+    "nb": 8
   },
   {
     "id": "logic_logic_quantifier_existence",
@@ -484,7 +560,9 @@
       "logic_quantifier_existence_01",
       "logic_quantifier_existence_02",
       "logic_quantifier_existence_03"
-    ]
+    ],
+    "trad_id": "existence",
+    "nb": 3
   },
   {
     "id": "logic_logic_quantifier_syllogism",
@@ -493,7 +571,9 @@
       "logic_quantifier_syllogism_01",
       "logic_quantifier_syllogism_02",
       "logic_quantifier_syllogism_03"
-    ]
+    ],
+    "trad_id": "syllogism",
+    "nb": 4
   },
   {
     "id": "logic_logic_quantifier_equivalence",
@@ -506,7 +586,9 @@
       "quantifier_equivalence_exists_forall_imply",
       "quantifier_equivalence_forall_forall_imply",
       "quantifier_equivalence_exists_exists_imply"
-    ]
+    ],
+    "trad_id": "equivalence",
+    "nb": 8
   },
   {
     "id": "logic_logic_quantifier_expansion",
@@ -515,7 +597,9 @@
       "logic_quantifier_expansion_02",
       "logic_quantifier_expansion_03",
       "logic_quantifier_expansion_04"
-    ]
+    ],
+    "trad_id": "expansion",
+    "nb": 4
   },
   {
     "id": "logic_logic_quantifier_commutativity",
@@ -523,7 +607,9 @@
       "logic_quantifier_commutativity_00",
       "logic_quantifier_commutativity_01",
       "logic_quantifier_commutativity_02"
-    ]
+    ],
+    "trad_id": "commutativity",
+    "nb": 3
   },
   {
     "id": "logic_logic_quantifier_demorgan",
@@ -533,7 +619,9 @@
       "logic_quantifier_demorgan_03",
       "logic_quantifier_demorgan_04",
       "logic_quantifier_demorgan_05"
-    ]
+    ],
+    "trad_id": "demorgan",
+    "nb": 5
   },
   {
     "id": "logic_logic_quantifier_misc",
@@ -554,7 +642,9 @@
       "quantifier_015",
       "quantifier_016",
       "quantifier_017"
-    ]
+    ],
+    "trad_id": "misc",
+    "nb": 16
   },
   {
     "id": "logic_logic_quantifier_good_bad",
@@ -566,14 +656,18 @@
       "logic_good_bad_02",
       "logic_good_bad_03",
       "logic_good_bad_04"
-    ]
+    ],
+    "trad_id": "good_bad",
+    "nb": 7
   },
   {
     "id": "logic_logic_quantifier_enigma",
     "exercises": [
       "logic_enigma_scottish",
       "logic_enigma_rich"
-    ]
+    ],
+    "trad_id": "enigma",
+    "nb": 2
   },
   {
     "id": "settheory_set_tuto_tutorial",
@@ -595,28 +689,36 @@
       "tuto_rew_6",
       "tuto_rew_8",
       "tuto_rew_10"
-    ]
+    ],
+    "trad_id": "set_tuto",
+    "nb": 17
   },
   {
     "id": "settheory_set_properties_set_reflexivity",
     "exercises": [
       "set_ex_reflexivity",
       "set_ex_reflexivity2"
-    ]
+    ],
+    "trad_id": "set_reflexivity",
+    "nb": 2
   },
   {
     "id": "settheory_set_properties_set_idempotence",
     "exercises": [
       "set_ex_idempotence_1",
       "set_ex_idempotence_2"
-    ]
+    ],
+    "trad_id": "set_idempotence",
+    "nb": 2
   },
   {
     "id": "settheory_set_properties_set_neutral",
     "exercises": [
       "set_ex_neutral_1",
       "set_ex_neutral_2"
-    ]
+    ],
+    "trad_id": "set_neutral",
+    "nb": 2
   },
   {
     "id": "settheory_set_properties_set_emptyset",
@@ -626,13 +728,17 @@
       "setops_tuto_33",
       "setops_tuto_48",
       "setops_tuto_31"
-    ]
+    ],
+    "trad_id": "set_emptyset",
+    "nb": 5
   },
   {
     "id": "settheory_set_properties_set_difference",
     "exercises": [
       "set_ex_defdiff"
-    ]
+    ],
+    "trad_id": "set_difference",
+    "nb": 1
   },
   {
     "id": "settheory_set_properties_set_absorption",
@@ -643,14 +749,18 @@
       "set_ex_absorption_4",
       "set_ex_absorption_5",
       "set_ex_absorption_6"
-    ]
+    ],
+    "trad_id": "set_absorption",
+    "nb": 6
   },
   {
     "id": "settheory_set_properties_set_inclusion",
     "exercises": [
       "set_ex_inclusion_1",
       "set_ex_inclusion_2"
-    ]
+    ],
+    "trad_id": "set_inclusion",
+    "nb": 2
   },
   {
     "id": "settheory_set_properties_set_simplification",
@@ -659,27 +769,35 @@
       "set_ex_simplification_2",
       "set_ex_simplification_3",
       "set_ex_simplification_4"
-    ]
+    ],
+    "trad_id": "set_simplification",
+    "nb": 4
   },
   {
     "id": "settheory_set_properties_set_excluded_middle",
     "exercises": [
       "set_ex_set_excluded_middle_1",
       "set_ex_set_excluded_middle_2"
-    ]
+    ],
+    "trad_id": "set_excluded_middle",
+    "nb": 2
   },
   {
     "id": "settheory_set_properties_set_deMorgan",
     "exercises": [
       "logic_quantifier_ex_03",
       "logic_quantifier_ex_04"
-    ]
+    ],
+    "trad_id": "set_deMorgan",
+    "nb": 2
   },
   {
     "id": "settheory_set_properties_set_absurd",
     "exercises": [
       "set_ex_absurd"
-    ]
+    ],
+    "trad_id": "set_absurd",
+    "nb": 1
   },
   {
     "id": "settheory_set_properties_set_distributivity",
@@ -691,7 +809,9 @@
       "logic_quantifier_ex_06",
       "logic_quantifier_ex_le_37",
       "logic_quantifier_ex_le_38"
-    ]
+    ],
+    "trad_id": "set_distributivity",
+    "nb": 7
   },
   {
     "id": "settheory_set_properties_set_operation",
@@ -700,7 +820,9 @@
       "set_ex_operation_2",
       "set_ex_operation_3",
       "set_ex_operation_4"
-    ]
+    ],
+    "trad_id": "set_operation",
+    "nb": 4
   },
   {
     "id": "settheory_set_properties_set_monotonicity",
@@ -710,7 +832,9 @@
       "set_ex_monotonicity_3",
       "set_ex_monotonicity_4",
       "set_ex_monotonicity_5"
-    ]
+    ],
+    "trad_id": "set_monotonicity",
+    "nb": 5
   },
   {
     "id": "settheory_set_properties_set_combination",
@@ -720,7 +844,9 @@
       "set_ex_combination_3",
       "set_ex_combination_4",
       "set_ex_combination_5"
-    ]
+    ],
+    "trad_id": "set_combination",
+    "nb": 5
   },
   {
     "id": "settheory_set_operators_subset",
@@ -729,21 +855,27 @@
       "setops_tuto_41",
       "setops_tuto_37",
       "setops_tuto_38"
-    ]
+    ],
+    "trad_id": "subset",
+    "nb": 4
   },
   {
     "id": "settheory_set_operators_cartesianp",
     "exercises": [
       "setops_tuto_28",
       "setops_tuto_15"
-    ]
+    ],
+    "trad_id": "cartesianp",
+    "nb": 2
   },
   {
     "id": "settheory_set_operators_projection",
     "exercises": [
       "setops_tuto_16",
       "setops_tuto_17"
-    ]
+    ],
+    "trad_id": "projection",
+    "nb": 2
   },
   {
     "id": "settheory_set_operators_set_difference",
@@ -751,20 +883,26 @@
       "setops_tuto_05",
       "set_rewops_tuto_30",
       "set_rewops_tuto_31"
-    ]
+    ],
+    "trad_id": "set_difference",
+    "nb": 3
   },
   {
     "id": "settheory_set_operators_set_excluded",
     "exercises": [
       "set_rewops_tuto_13",
       "set_rewops_tuto_14"
-    ]
+    ],
+    "trad_id": "set_excluded",
+    "nb": 2
   },
   {
     "id": "settheory_set_operators_set_absurd",
     "exercises": [
       "set_rewops_tuto_15"
-    ]
+    ],
+    "trad_id": "set_absurd",
+    "nb": 1
   },
   {
     "id": "settheory_set_operators_scomp",
@@ -773,7 +911,9 @@
       "logic_settheory_tuto_04",
       "set_ex_inclusion_3",
       "set_rewops_tuto_12"
-    ]
+    ],
+    "trad_id": "scomp",
+    "nb": 4
   },
   {
     "id": "settheory_set_operators_set_inclusion",
@@ -783,7 +923,9 @@
       "setops_tuto_26",
       "setops_tuto_30",
       "set_tuto_inclusion"
-    ]
+    ],
+    "trad_id": "set_inclusion",
+    "nb": 5
   },
   {
     "id": "settheory_set_operators_set_leftright",
@@ -792,7 +934,9 @@
       "set_tuto_lrunion",
       "set_tuto_lrdiff",
       "set_tuto_lrcomp"
-    ]
+    ],
+    "trad_id": "set_leftright",
+    "nb": 4
   },
   {
     "id": "settheory_set_operators_set_combinations",
@@ -805,7 +949,9 @@
       "setops_tuto_24",
       "setops_tuto_29",
       "setops_tuto_47"
-    ]
+    ],
+    "trad_id": "set_combinations",
+    "nb": 8
   },
   {
     "id": "settheory_set_operators_setprop",
@@ -814,20 +960,26 @@
       "setops_tuto_32",
       "setops_tuto_27",
       "logic_set_operator_04"
-    ]
+    ],
+    "trad_id": "setprop",
+    "nb": 4
   },
   {
     "id": "settheory_set_operators_setdemorgan",
     "exercises": [
       "set_rewops_tuto_11"
-    ]
+    ],
+    "trad_id": "setdemorgan",
+    "nb": 1
   },
   {
     "id": "settheory_set_operators_svoid",
     "exercises": [
       "setops_tuto_34",
       "setops_tuto_36"
-    ]
+    ],
+    "trad_id": "svoid",
+    "nb": 2
   },
   {
     "id": "settheory_set_operators_set_simplification",
@@ -839,7 +991,9 @@
       "logic_set_rewrite_06",
       "set_tuto_comb_union2",
       "set_tuto_comb_inter2"
-    ]
+    ],
+    "trad_id": "set_simplification",
+    "nb": 7
   },
   {
     "id": "settheory_set_operators_set_transitivity",
@@ -847,7 +1001,9 @@
       "logic_set_rewrite_09",
       "logic_set_rewrite_10",
       "logic_set_rewrite_01"
-    ]
+    ],
+    "trad_id": "set_transitivity",
+    "nb": 3
   },
   {
     "id": "settheory_set_operators_set_distributivity",
@@ -856,7 +1012,9 @@
       "set_rewops_tuto_07",
       "tuto_rew2_4",
       "set_rewops_tuto_08"
-    ]
+    ],
+    "trad_id": "set_distributivity",
+    "nb": 4
   },
   {
     "id": "settheory_set_operators_set_difficult",
@@ -868,34 +1026,44 @@
       "logic_set_rewrite_17",
       "logic_set_operator_05",
       "logic_set_operator_06"
-    ]
+    ],
+    "trad_id": "set_difficult",
+    "nb": 7
   },
   {
     "id": "settheory_logic_relation_relationgraph",
     "exercises": [
       "logic_rel_tuto_graph"
-    ]
+    ],
+    "trad_id": "relationgraph",
+    "nb": 1
   },
   {
     "id": "settheory_logic_relation_injectivity",
     "exercises": [
       "logic_rel_tuto_01",
       "logic_rel_tuto_03"
-    ]
+    ],
+    "trad_id": "injectivity",
+    "nb": 2
   },
   {
     "id": "settheory_logic_relation_surjectivity",
     "exercises": [
       "logic_rel_tuto_05",
       "logic_rel_tuto_07"
-    ]
+    ],
+    "trad_id": "surjectivity",
+    "nb": 2
   },
   {
     "id": "settheory_logic_relation_set_operations",
     "exercises": [
       "logic_rel_tuto_09",
       "logic_rel_tuto_10"
-    ]
+    ],
+    "trad_id": "set_operations",
+    "nb": 2
   },
   {
     "id": "settheory_logic_relation_binrel",
@@ -907,14 +1075,18 @@
       "logic_rel_tuto_13",
       "logic_rel_tuto_14",
       "logic_rel_tuto_15"
-    ]
+    ],
+    "trad_id": "binrel",
+    "nb": 7
   },
   {
     "id": "settheory_logic_relation_remarkset",
     "exercises": [
       "logic_rel_tuto_17",
       "logic_quantifier_ex_le_15"
-    ]
+    ],
+    "trad_id": "remarkset",
+    "nb": 2
   },
   {
     "id": "settheory_logic_relation_relation_tilda",
@@ -927,14 +1099,18 @@
       "logic_tilda_02",
       "logic_tilda_03",
       "logic_tilda_04"
-    ]
+    ],
+    "trad_id": "relation_tilda",
+    "nb": 8
   },
   {
     "id": "settheory_logic_relation_relequiv",
     "exercises": [
       "logic_quantifier_ex_le_16",
       "logic_quantifier_ex_le_17"
-    ]
+    ],
+    "trad_id": "relequiv",
+    "nb": 2
   },
   {
     "id": "settheory_logic_relation_relcar",
@@ -943,7 +1119,9 @@
       "logic_quantifier_ex_le_26",
       "logic_quantifier_ex_le_25",
       "logic_quantifier_ex_le_27"
-    ]
+    ],
+    "trad_id": "relcar",
+    "nb": 4
   },
   {
     "id": "settheory_logic_relation_relcomp",
@@ -953,14 +1131,18 @@
       "logic_quantifier_ex_le_30",
       "logic_quantifier_ex_le_29",
       "logic_quantifier_ex_le_47"
-    ]
+    ],
+    "trad_id": "relcomp",
+    "nb": 5
   },
   {
     "id": "settheory_logic_relation_reltrans",
     "exercises": [
       "logic_quantifier_ex_le_32",
       "logic_quantifier_ex_le_31"
-    ]
+    ],
+    "trad_id": "reltrans",
+    "nb": 2
   },
   {
     "id": "settheory_logic_relation_relinv",
@@ -972,7 +1154,9 @@
       "logic_quantifier_ex_le_19",
       "logic_quantifier_ex_le_21",
       "logic_quantifier_ex_le_22"
-    ]
+    ],
+    "trad_id": "relinv",
+    "nb": 7
   },
   {
     "id": "settheory_logic_function_image_function",
@@ -985,7 +1169,9 @@
       "tuto_function_03",
       "tuto_function_10",
       "tuto_function_02"
-    ]
+    ],
+    "trad_id": "image_function",
+    "nb": 8
   },
   {
     "id": "settheory_logic_function_fun_properties",
@@ -994,13 +1180,17 @@
       "tuto_function_06",
       "tuto_function_07",
       "tuto_function_08"
-    ]
+    ],
+    "trad_id": "fun_properties",
+    "nb": 4
   },
   {
     "id": "settheory_logic_function_funcomp",
     "exercises": [
       "tuto_function_09"
-    ]
+    ],
+    "trad_id": "funcomp",
+    "nb": 1
   },
   {
     "id": "settheory_logic_function_funsurj",
@@ -1010,7 +1200,9 @@
       "logic_quantifier_ex_le_12",
       "tuto_function_11",
       "logic_quantifier_ex_le_50"
-    ]
+    ],
+    "trad_id": "funsurj",
+    "nb": 5
   },
   {
     "id": "settheory_logic_function_finj",
@@ -1023,7 +1215,9 @@
       "tuto_function_13",
       "tuto_function_14",
       "logic_quantifier_ex_le_49"
-    ]
+    ],
+    "trad_id": "finj",
+    "nb": 8
   },
   {
     "id": "settheory_logic_function_fun_inverse",
@@ -1031,7 +1225,9 @@
       "function_inverse_01",
       "function_inverse_02",
       "function_inverse_03"
-    ]
+    ],
+    "trad_id": "fun_inverse",
+    "nb": 3
   },
   {
     "id": "calculus_eq_seg_tutorial",
@@ -1059,7 +1255,9 @@
       "neq_4",
       "neq_5",
       "eq_10"
-    ]
+    ],
+    "trad_id": "eq_seg",
+    "nb": 23
   },
   {
     "id": "calculus_eq_seg_combinaison",
@@ -1068,7 +1266,9 @@
       "combinaison_02",
       "combinaison_03",
       "combinaison_04"
-    ]
+    ],
+    "trad_id": "combinaison",
+    "nb": 4
   },
   {
     "id": "calculus_eq_seg_rewritings",
@@ -1077,7 +1277,9 @@
       "rewriting_02",
       "rewriting_03",
       "rewriting_04"
-    ]
+    ],
+    "trad_id": "rewritings",
+    "nb": 4
   },
   {
     "id": "calculus_eq_seg_lrops",
@@ -1086,7 +1288,9 @@
       "demo_tuto_ex8",
       "demo_tuto_ex9",
       "demo_tuto_ex11"
-    ]
+    ],
+    "trad_id": "lrops",
+    "nb": 4
   },
   {
     "id": "calculus_eq_seg_rew_equation",
@@ -1094,7 +1298,9 @@
       "eq_1",
       "rew_ex_19",
       "demo_easy_ex_01"
-    ]
+    ],
+    "trad_id": "rew_equation",
+    "nb": 3
   },
   {
     "id": "calculus_eq_seg_comb",
@@ -1103,7 +1309,9 @@
       "demo_tuto_ex1_1",
       "demo_tuto_ex2",
       "demo_tuto_ex2_1"
-    ]
+    ],
+    "trad_id": "comb",
+    "nb": 4
   },
   {
     "id": "calculus_rewrite_tutorial",
@@ -1125,7 +1333,9 @@
       "rew_tuto_misc3",
       "rew_ops_1",
       "rew_tuto_group"
-    ]
+    ],
+    "trad_id": "rewrite",
+    "nb": 17
   },
   {
     "id": "calculus_rewrite_rew_factorize",
@@ -1142,7 +1352,9 @@
       "rew_ex_9",
       "rew_ex_12",
       "demo_easy_ex_02"
-    ]
+    ],
+    "trad_id": "rew_factorize",
+    "nb": 12
   },
   {
     "id": "calculus_rewrite_rew_almostsquare",
@@ -1150,7 +1362,9 @@
       "rew_ex_16",
       "rew_ex_17",
       "rew_ex_18"
-    ]
+    ],
+    "trad_id": "rew_almostsquare",
+    "nb": 3
   },
   {
     "id": "calculus_rewrite_rew_canonical_form",
@@ -1169,7 +1383,9 @@
       "rew_canonical_form_11",
       "rew_canonical_form_12",
       "rew_canonical_form_gen2"
-    ]
+    ],
+    "trad_id": "rew_canonical_form",
+    "nb": 14
   },
   {
     "id": "calculus_rewrite_rew3_equation",
@@ -1181,7 +1397,9 @@
       "demo_tuto_ex5",
       "demo_tuto_second",
       "demo_ex_second"
-    ]
+    ],
+    "trad_id": "rew3_equation",
+    "nb": 7
   },
   {
     "id": "calculus_rewrite_rew_system",
@@ -1196,7 +1414,9 @@
       "rew_ex_27",
       "rew_ex_26",
       "rew_ex_28"
-    ]
+    ],
+    "trad_id": "rew_system",
+    "nb": 10
   },
   {
     "id": "calculus_ineq_seg_tutorial",
@@ -1215,7 +1435,9 @@
       "double_inequality_tuto_04",
       "double_inequality_tuto_05",
       "double_inequality_tuto_02"
-    ]
+    ],
+    "trad_id": "ineq_seg",
+    "nb": 14
   },
   {
     "id": "calculus_ineq_seg_ineqcomb",
@@ -1226,14 +1448,18 @@
       "ineq_comb_4",
       "ineq_comb_5",
       "ineq_comb_6"
-    ]
+    ],
+    "trad_id": "ineqcomb",
+    "nb": 6
   },
   {
     "id": "calculus_ineq_seg_properties",
     "exercises": [
       "ineq_prop1",
       "ineq_prop2"
-    ]
+    ],
+    "trad_id": "properties",
+    "nb": 2
   },
   {
     "id": "calculus_ineq_seg_ineqs",
@@ -1249,14 +1475,18 @@
       "ineq_ex_5",
       "ineq_ex_19",
       "ineq_ex_12"
-    ]
+    ],
+    "trad_id": "ineqs",
+    "nb": 11
   },
   {
     "id": "calculus_ineq_seg_misc",
     "exercises": [
       "ineq_ex_10",
       "ineq_ex_11"
-    ]
+    ],
+    "trad_id": "misc",
+    "nb": 2
   },
   {
     "id": "calculus_rewrite2_tutorial",
@@ -1274,7 +1504,9 @@
       "rew_sqrt_1",
       "rew_sqrt_2",
       "rew_sqrt_5"
-    ]
+    ],
+    "trad_id": "rewrite2",
+    "nb": 13
   },
   {
     "id": "calculus_rewrite2_rew_conjugate",
@@ -1285,14 +1517,18 @@
       "rew_ex_4",
       "rew_ex_5",
       "rew_ex_6"
-    ]
+    ],
+    "trad_id": "rew_conjugate",
+    "nb": 6
   },
   {
     "id": "calculus_rewrite2_rew3_almostsquare",
     "exercises": [
       "rew_ex_22",
       "quadratic_equation_facto"
-    ]
+    ],
+    "trad_id": "rew3_almostsquare",
+    "nb": 2
   },
   {
     "id": "calculus_rewrite2_rew_gold",
@@ -1300,7 +1536,9 @@
       "rew_ex_30",
       "rew_ex_31",
       "rew_ex_32"
-    ]
+    ],
+    "trad_id": "rew_gold",
+    "nb": 3
   },
   {
     "id": "calculus_sigma_seg_tutorial",
@@ -1315,7 +1553,9 @@
       "sigma_ex_27",
       "sigma_ex_23",
       "sigma_ex_28"
-    ]
+    ],
+    "trad_id": "sigma_seg",
+    "nb": 10
   },
   {
     "id": "calculus_sigma_seg_sigma_withref",
@@ -1328,7 +1568,9 @@
       "sigma_ex_2",
       "sigma_ex_6",
       "sigma_ex_17"
-    ]
+    ],
+    "trad_id": "sigma_withref",
+    "nb": 8
   },
   {
     "id": "calculus_sigma_seg_sigma_telescop",
@@ -1337,7 +1579,9 @@
       "sigma_ex_8",
       "sigma_ex_13",
       "sigma_ex_9"
-    ]
+    ],
+    "trad_id": "sigma_telescop",
+    "nb": 4
   },
   {
     "id": "calculus_sigma_seg_sigma_ref",
@@ -1346,7 +1590,9 @@
       "sigma_ex_16",
       "sigma_ex_21",
       "sigma_ex_30"
-    ]
+    ],
+    "trad_id": "sigma_ref",
+    "nb": 4
   },
   {
     "id": "calculus_prod_seg_tutorial",
@@ -1363,7 +1609,9 @@
       "prod_seg_tuto_binomdef",
       "prod_seg_tuto_binompascal",
       "prod_seg_tuto_binomnewton"
-    ]
+    ],
+    "trad_id": "prod_seg",
+    "nb": 12
   },
   {
     "id": "calculus_prod_seg_prod_seg_products",
@@ -1375,7 +1623,9 @@
       "prod_seg_ex04",
       "prod_seg_ex05",
       "prod_seg_ex09"
-    ]
+    ],
+    "trad_id": "prod_seg_products",
+    "nb": 7
   },
   {
     "id": "calculus_prod_seg_prod_seg_fact",
@@ -1385,7 +1635,9 @@
       "prod_seg_fact_02",
       "prod_seg_fact_04",
       "prod_seg_fact_05"
-    ]
+    ],
+    "trad_id": "prod_seg_fact",
+    "nb": 5
   },
   {
     "id": "calculus_prod_seg_prod_seg_binom",
@@ -1394,7 +1646,9 @@
       "prod_seg_binom_03",
       "prod_seg_binom_08",
       "prod_seg_binom_09"
-    ]
+    ],
+    "trad_id": "prod_seg_binom",
+    "nb": 4
   },
   {
     "id": "analysis_analysis_induction_ind_sum",
@@ -1408,7 +1662,9 @@
       "induction_ex_04",
       "induction_ex_05",
       "demo_hard_ex_02"
-    ]
+    ],
+    "trad_id": "ind_sum",
+    "nb": 9
   },
   {
     "id": "analysis_analysis_induction_ind_bernouilli",
@@ -1417,7 +1673,9 @@
       "demo_bernoulli_2",
       "induction_ex_11",
       "induction_ex_12"
-    ]
+    ],
+    "trad_id": "ind_bernouilli",
+    "nb": 4
   },
   {
     "id": "analysis_analysis_induction_ind_divis",
@@ -1429,27 +1687,35 @@
       "induction_ex_09",
       "induction_ex_08",
       "induction_ex_10"
-    ]
+    ],
+    "trad_id": "ind_divis",
+    "nb": 7
   },
   {
     "id": "analysis_analysis_induction_ind_binom",
     "exercises": [
       "prod_seg_binom_04",
       "induction_binomnewton"
-    ]
+    ],
+    "trad_id": "ind_binom",
+    "nb": 2
   },
   {
     "id": "analysis_logic_inductive_list_section",
     "exercises": [
       "inductive_01"
-    ]
+    ],
+    "trad_id": "list_section",
+    "nb": 1
   },
   {
     "id": "analysis_analysis_series_series_properties",
     "exercises": [
       "series_prop_01",
       "series_prop_02"
-    ]
+    ],
+    "trad_id": "series_properties",
+    "nb": 2
   },
   {
     "id": "analysis_analysis_series_series_arith",
@@ -1468,7 +1734,9 @@
       "series_ex_05",
       "series_ex_06",
       "series_ex_07"
-    ]
+    ],
+    "trad_id": "series_arith",
+    "nb": 14
   },
   {
     "id": "analysis_analysis_series_series_geo",
@@ -1480,7 +1748,9 @@
       "series_ex_17",
       "series_ex_19",
       "analysis_series_02"
-    ]
+    ],
+    "trad_id": "series_geo",
+    "nb": 7
   },
   {
     "id": "analysis_analysis_series_series_arithgeo",
@@ -1488,7 +1758,9 @@
       "series_ex_20",
       "series_ex_34",
       "series_ex_35"
-    ]
+    ],
+    "trad_id": "series_arithgeo",
+    "nb": 3
   },
   {
     "id": "analysis_analysis_series_series_bounded",
@@ -1502,7 +1774,9 @@
       "analysis_series_22",
       "analysis_series_23",
       "series_ex_12"
-    ]
+    ],
+    "trad_id": "series_bounded",
+    "nb": 9
   },
   {
     "id": "analysis_analysis_series_series_variation",
@@ -1517,7 +1791,9 @@
       "series_ex_31",
       "series_ex_32",
       "series_ex_18"
-    ]
+    ],
+    "trad_id": "series_variation",
+    "nb": 10
   },
   {
     "id": "analysis_analysis_limits_constant",
@@ -1525,7 +1801,9 @@
       "basicfun_001",
       "basicfun_003",
       "basicfun_002"
-    ]
+    ],
+    "trad_id": "constant",
+    "nb": 3
   },
   {
     "id": "analysis_analysis_limits_identity",
@@ -1533,7 +1811,9 @@
       "basicfun_01",
       "basicfun_02",
       "basicfun_03"
-    ]
+    ],
+    "trad_id": "identity",
+    "nb": 3
   },
   {
     "id": "analysis_analysis_limits_inverse",
@@ -1542,20 +1822,26 @@
       "basicfun_05",
       "basicfun_06",
       "basicfun_07"
-    ]
+    ],
+    "trad_id": "inverse",
+    "nb": 4
   },
   {
     "id": "analysis_analysis_limits_square",
     "exercises": [
       "basicfun_09",
       "basicfun_10"
-    ]
+    ],
+    "trad_id": "square",
+    "nb": 2
   },
   {
     "id": "analysis_analysis_limits_sqrt",
     "exercises": [
       "basicfun_12"
-    ]
+    ],
+    "trad_id": "sqrt",
+    "nb": 1
   },
   {
     "id": "analysis_analysis_limits_power",
@@ -1564,7 +1850,9 @@
       "geometric_02",
       "geometric_01",
       "geometric_03"
-    ]
+    ],
+    "trad_id": "power",
+    "nb": 4
   },
   {
     "id": "analysis_analysis_limits_limits_properties",
@@ -1577,7 +1865,9 @@
       "ex_analysis_limit_10",
       "ex_analysis_limit_11",
       "ex_analysis_limit_09"
-    ]
+    ],
+    "trad_id": "limits_properties",
+    "nb": 8
   },
   {
     "id": "analysis_analysis_limits_limits_series",
@@ -1598,7 +1888,9 @@
       "limit_series_02",
       "limit_series_03",
       "analysis_limit_004"
-    ]
+    ],
+    "trad_id": "limits_series",
+    "nb": 16
   },
   {
     "id": "analysis_analysis_limits_limits_inf",
@@ -1614,7 +1906,9 @@
       "analysis_limits_11",
       "analysis_limits_12",
       "analysis_limits_tuto_03"
-    ]
+    ],
+    "trad_id": "limits_inf",
+    "nb": 11
   },
   {
     "id": "analysis_analysis_limits_limits_finite",
@@ -1625,6 +1919,8 @@
       "limits_ex_05",
       "limits_ex_06",
       "limits_ex_07"
-    ]
+    ],
+    "trad_id": "limits_finite",
+    "nb": 6
   }
 ]
