@@ -1,0 +1,17 @@
+{
+  "title": "Iframe Embedder",
+  "language": "und",
+  "mainLibrary": "H5P.IFrameEmbed",
+  "embedTypes": [
+    "div"
+  ],
+  "license": "U",
+  "defaultLanguage": "en",
+  "preloadedDependencies": [
+    {
+      "machineName": "H5P.IFrameEmbed",
+      "majorVersion": "1",
+      "minorVersion": "0"
+    }
+  ]
+}
