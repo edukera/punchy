@@ -1,10 +1,26 @@
-Ce document présente les exercices Edukera fournis en composants H5P, organisés en 5 parties:
+Ce document présente les exercices [Edukera](https://edukera.com/) fournis en composants [H5P](https://h5p.org/), organisés en 5 parties:
 
 * [Formalisation](#formalisation)
 * [Logique](#logique)
+  * [Connecteurs](#connecteurs)
+  * [Quantificateurs](#quantificateurs)
 * [Théorie des ensembles](#ensembles)
+  * [Didacticiel](#didacticiel)
+  * [Propriétés](#propriétés)
+  * [Calculs ensemblistes](#calculs-ensemblistes)
+  * [Relations](#relations)
+  * [Fonctions](#fonctions)
 * [Calcul algébrique](#calcul-algébrique)
+  * [Egalité](#egalité)
+  * [Réécritures](#réécritures)
+  * [Inégalités](#inégalités)
+  * [Réécritures 2](#réécritures-2)
+  * [Sigma](#Sigma)
+  * [Produit](#produit)
 * [Analyse](#analyse)
+  * [Récurrence](#récurrence)
+  * [Suites](#suites)
+  * [Limites](#limites)
 
 # Formalisation
 
