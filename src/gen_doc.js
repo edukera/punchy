@@ -34,7 +34,7 @@ for (var i=4; i < 9; i++) {
       if (tutorial != undefined) {
         const exercices = get_tutorial_exercises(tutorial)
         const exercices_count = exercices.length
-        const link = './h5p' + part.id + '_' + chapter.id + '_tutorial'
+        const link = './h5p/' + part.id + '_' + chapter.id + '_tutorial'
         console.log('| [ Didacticiel ]( ' + link + ') | | ' + exercices_count + ' |')
       }
       const exercises = chapter["Exercises"]

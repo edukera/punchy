@@ -33,12 +33,15 @@
 | [Échiquier 11]( ./h5p/formalisation_formalisation_chess_chess_with_var_11.h5p) | | 8 |
 | [Échiquier 12]( ./h5p/formalisation_formalisation_chess_chess_with_var_12.h5p) | | 7 |
 | [Bac à sable]( ./h5p/formalisation_formalisation_chess_chess_section_sandbox.h5p) | | 2 |
-
+## Programmation
+| Resource | Description | Nb exercices |
+|---|---|---|
+| []( ./h5p/formalisation_formalisation_programming_programming.h5p) | | 1 |
 # Logique
 ## Connecteurs
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5plogic_logic_connector_tutorial) | | 27 |
+| [ Didacticiel ]( ./h5p/logic_logic_connector_tutorial) | | 27 |
 | [Basiques]( ./h5p/logic_logic_connector_logic_connector_training.h5p) | | 2 |
 | [Logique constructiviste]( ./h5p/logic_logic_connector_logic_connector_constructivism.h5p) | | 14 |
 | [Associativités]( ./h5p/logic_logic_connector_logic_connector_associativity.h5p) | | 2 |
@@ -52,7 +55,7 @@
 ## Quantificateurs
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5plogic_logic_quantifier_tutorial) | | 8 |
+| [ Didacticiel ]( ./h5p/logic_logic_quantifier_tutorial) | | 8 |
 | [Existence]( ./h5p/logic_logic_quantifier_existence.h5p) | | 3 |
 | [Syllogismes]( ./h5p/logic_logic_quantifier_syllogism.h5p) | | 4 |
 | [Équivalence]( ./h5p/logic_logic_quantifier_equivalence.h5p) | | 8 |
@@ -66,7 +69,7 @@
 ## Didacticiel
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5psettheory_set_tuto_tutorial) | | 17 |
+| [ Didacticiel ]( ./h5p/settheory_set_tuto_tutorial) | | 17 |
 ## Propriétés
 | Resource | Description | Nb exercices |
 |---|---|---|
@@ -133,7 +136,7 @@
 ## Egalité
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5pcalculus_eq_seg_tutorial) | | 23 |
+| [ Didacticiel ]( ./h5p/calculus_eq_seg_tutorial) | | 23 |
 | [Combinaisons]( ./h5p/calculus_eq_seg_combinaison.h5p) | | 4 |
 | [Opérations]( ./h5p/calculus_eq_seg_rewritings.h5p) | | 4 |
 | [Opérations à gauche et à droite]( ./h5p/calculus_eq_seg_lrops.h5p) | | 4 |
@@ -142,7 +145,7 @@
 ## Réécritures
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5pcalculus_rewrite_tutorial) | | 17 |
+| [ Didacticiel ]( ./h5p/calculus_rewrite_tutorial) | | 17 |
 | [Factorisations]( ./h5p/calculus_rewrite_rew_factorize.h5p) | | 12 |
 | [Carrés presque parfaits]( ./h5p/calculus_rewrite_rew_almostsquare.h5p) | | 3 |
 | [Formes canoniques]( ./h5p/calculus_rewrite_rew_canonical_form.h5p) | | 14 |
@@ -151,7 +154,7 @@
 ## Inégalités
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5pcalculus_ineq_seg_tutorial) | | 14 |
+| [ Didacticiel ]( ./h5p/calculus_ineq_seg_tutorial) | | 14 |
 | [Combinaison]( ./h5p/calculus_ineq_seg_ineqcomb.h5p) | | 6 |
 | [Propriétés]( ./h5p/calculus_ineq_seg_properties.h5p) | | 2 |
 | [Inéquations]( ./h5p/calculus_ineq_seg_ineqs.h5p) | | 11 |
@@ -159,21 +162,21 @@
 ## Réécritures 2
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5pcalculus_rewrite2_tutorial) | | 13 |
+| [ Didacticiel ]( ./h5p/calculus_rewrite2_tutorial) | | 13 |
 | [Valeurs conjuguées]( ./h5p/calculus_rewrite2_rew_conjugate.h5p) | | 6 |
 | [Carrés presque parfaits]( ./h5p/calculus_rewrite2_rew3_almostsquare.h5p) | | 2 |
 | [Nombre d''or]( ./h5p/calculus_rewrite2_rew_gold.h5p) | | 3 |
 ## Sigma
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5pcalculus_sigma_seg_tutorial) | | 10 |
+| [ Didacticiel ]( ./h5p/calculus_sigma_seg_tutorial) | | 10 |
 | [A l''aide des sommes de référence]( ./h5p/calculus_sigma_seg_sigma_withref.h5p) | | 8 |
 | [Sommes téléscopiques]( ./h5p/calculus_sigma_seg_sigma_telescop.h5p) | | 4 |
 | [Sommes de référence]( ./h5p/calculus_sigma_seg_sigma_ref.h5p) | | 4 |
 ## Produit
 | Resource | Description | Nb exercices |
 |---|---|---|
-| [ Didacticiel ]( ./h5pcalculus_prod_seg_tutorial) | | 12 |
+| [ Didacticiel ]( ./h5p/calculus_prod_seg_tutorial) | | 12 |
 | [Produits]( ./h5p/calculus_prod_seg_prod_seg_products.h5p) | | 7 |
 | [Factorielles]( ./h5p/calculus_prod_seg_prod_seg_fact.h5p) | | 5 |
 | [Coefficients binomiaux]( ./h5p/calculus_prod_seg_prod_seg_binom.h5p) | | 4 |
@@ -185,7 +188,7 @@
 | [Inégalités]( ./h5p/analysis_analysis_induction_ind_bernouilli.h5p) | | 4 |
 | [Divisibilité]( ./h5p/analysis_analysis_induction_ind_divis.h5p) | | 7 |
 | [Coefficients binomiaux]( ./h5p/analysis_analysis_induction_ind_binom.h5p) | | 2 |
-##
+## 
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [Listes]( ./h5p/analysis_logic_inductive_list_section.h5p) | | 1 |
