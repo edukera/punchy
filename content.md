@@ -1,4 +1,15 @@
+Ce document présente les exercices Edukera fournis en composants H5P, organisés en 5 parties:
+
+* [Formalisation](#formalisation)
+* [Logique](#logique)
+* [Théorie des ensembles](#ensembles)
+* [Calcul algébrique](#calcul-algébrique)
+* [Analyse](#analyse)
+
 # Formalisation
+
+Les exercices de formalisation consistent à traduire des phrases en langage naturel en propositions en logique formelle.
+
 ## Logique
 | Resource | Description | Nb exercices |
 |---|---|---|
@@ -33,12 +44,27 @@
 | [Échiquier 11]( ./h5p/formalisation_formalisation_chess_chess_with_var_11.h5p) | | 8 |
 | [Échiquier 12]( ./h5p/formalisation_formalisation_chess_chess_with_var_12.h5p) | | 7 |
 | [Bac à sable]( ./h5p/formalisation_formalisation_chess_chess_section_sandbox.h5p) | | 2 |
-## Programmation
-| Resource | Description | Nb exercices |
-|---|---|---|
-| []( ./h5p/formalisation_formalisation_programming_programming.h5p) | | 1 |
+
 # Logique
+
+<p>Les règles de formation des <a href="https://fr.wikipedia.org/wiki/Proposition" target="_blank">propositions</a>, et les règles de raisonnement associées, forment un système logique, appelé <a href="https://fr.wikipedia.org/wiki/D%C3%A9duction_naturelle" target="_">déduction naturelle</a>, utilisé notamment dans l'élaboration des <a href="https://fr.wikipedia.org/wiki/D%C3%A9monstration_(math%C3%A9matiques_%C3%A9l%C3%A9mentaires)" target="_blank">démonstrations</a> mathématiques.</p>
+ <p>La valeur de ce système tient notamment dans le fait qu’il est indépendant de la théorie étudiée. Une théorie est l'ensemble des axiomes (théorèmes admis) définissant des objets et leurs propriétés.</p>
+
 ## Connecteurs
+
+<p>Les connecteurs logiques sont des éléments fondamentaux pour former des propositions mathématiques à partir de deux propositions quelconques A et B :</p>
+ <ul>
+  <li>l’implication, A implique B, notée "A ⇒ B"</li>
+  <li>la conjonction, A et B, notée "A ∧ B"</li>
+  <li>la disjonction, A ou B, notée "A ∨ B"</li>
+  <li>la négation, non A, notée "¬ A"</li>
+ </ul>
+ <p>Chacun de ces connecteurs est associé à deux régles :</p>
+ <ul>
+  <li>une règle permettant de justifier (ou démontrer) la proposition : comment justifier "A ∧ B" ?</li>
+  <li>une règle permettant de déduire une nouvelle proposition : que peut on déduire de "A ∧ B" ?</li>
+ </ul>
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/logic_logic_connector_tutorial) | | 27 |
@@ -53,6 +79,10 @@
 | [Lois de De Morgan]( ./h5p/logic_logic_connector_logic_connector_deMorgan_laws.h5p) | | 3 |
 | [Absurde ⇔ Tiers exclu ⇔ Peirce]( ./h5p/logic_logic_connector_abs_cb_peirce.h5p) | | 6 |
 ## Quantificateurs
+
+<p>Les propositions mathématiques peuvent également être des formules avec des variables prenant certaines valeurs : par exemple “3 est un nombre premier” peut être considéré comme la formule “x est un nombre premier” où la variable “x” prend la valeur “3”.</p>
+ <p> Pour une formule à variable, on a besoin d’exprimer que la proposition obtenue est vraie <u>quelle que soit la valeur de la variable</u>, ou qu’<u>il existe au moins une valeur</u> pour laquelle la proposition est vraie. Ces nouveaux éléments de langage sont les quantificateurs. </p>
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/logic_logic_quantifier_tutorial) | | 8 |
@@ -66,6 +96,9 @@
 | [Vérités et mensonges]( ./h5p/logic_logic_quantifier_good_bad.h5p) | | 7 |
 | [Enigmes]( ./h5p/logic_logic_quantifier_enigma.h5p) | | 2 |
 # Ensembles
+
+<p> A la fin du 19<span class="sup">ème</span> siècle, le mathématicien allemand <a href="https://fr.wikipedia.org/wiki/Georg_Cantor" target="_blank">Georg Cantor</a> élabore la <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_ensembles" target="_blank">théorie des ensembles</a>. Elle permet de définir les éléments fondamentaux des mathématiques, notamment les nombres entiers, les nombres réels, les fonctions ... </p>
+
 ## Didacticiel
 | Resource | Description | Nb exercices |
 |---|---|---|
@@ -88,7 +121,16 @@
 | [Opérations à gauche et à droite]( ./h5p/settheory_set_properties_set_operation.h5p) | | 4 |
 | [Monotonies]( ./h5p/settheory_set_properties_set_monotonicity.h5p) | | 5 |
 | [Combinaisons]( ./h5p/settheory_set_properties_set_combination.h5p) | | 5 |
-## Opérations
+## Calculs ensemblistes
+
+<p>Les calculs algébriques sur les ensembles ressemblent aux calculs sur les nombres parce que : </p>
+ <ul>
+  <li>les opérations ensemblistes (intersection, union, ...) ont des propriétés similaires aux opérations numériques (addition, multiplication, ...) : associativité, commutativité, distributivité, ... </li>
+  <li>l'égalité ensembliste et l'égalité numérique sont des relations d'équivalence qui sont transitives, symétriques et réflexives (voir section suivante)</li>
+ </ul>
+ <p>L'algèbre ensembliste est équivalente à l'<a href="https://fr.wikipedia.org/wiki/Alg%C3%A8bre_de_Boole_(logique)" target="_blank">algèbre booléenne</a> : soit un élement appartient à un ensemble, soit il n'y appartient pas. Cette algèbre est centrale en informatique, dans l'écriture des programmes et dans l'élaboration des circuits électroniques. </p>
+
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [Parties d'un ensemble]( ./h5p/settheory_set_operators_subset.h5p) | | 4 |
@@ -109,6 +151,10 @@
 | [Distributivités]( ./h5p/settheory_set_operators_set_distributivity.h5p) | | 4 |
 | [Plus difficiles]( ./h5p/settheory_set_operators_set_difficult.h5p) | | 7 |
 ## Relations
+
+<p>Les relations, omniprésentes en mathématiques, sont des formules mettant en relation deux valeurs appartenant à deux univers, potentiellement différents. On parle de relation binaire lorsque les valeurs appartiennent au même univers.</p>
+ <p>La caractérisation ensembliste des relations, ainsi que leurs propriétés, sont présentées.</p>
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [Graphe]( ./h5p/settheory_logic_relation_relationgraph.h5p) | | 1 |
@@ -124,6 +170,9 @@
 | [Transitivité]( ./h5p/settheory_logic_relation_reltrans.h5p) | | 2 |
 | [Inverse]( ./h5p/settheory_logic_relation_relinv.h5p) | | 7 |
 ## Fonctions
+
+ <p>Une fonction f d'une variable x d'un univers A, est une procédure de calcul d'un élément y d'un univers B telle que la proposition "y=f(x)" est une relation fonctionnelle de A vers B.</p>
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [Image, antécédent]( ./h5p/settheory_logic_function_image_function.h5p) | | 8 |
@@ -133,7 +182,41 @@
 | [Injectivité]( ./h5p/settheory_logic_function_finj.h5p) | | 8 |
 | [undefined]( ./h5p/settheory_logic_function_fun_inverse.h5p) | | 3 |
 # Calcul algébrique
+
+ <p>Le calcul algébrique consiste à transformer une relation d'égalité (ou d'inégalité), entre des nombres réels ou des vecteurs par exemple. L'enjeu est d'élaborer une séquence de transformations (factorisation, développement, ...) pour démontrer certaines propriétés mathématiques.</p>
+
 ## Egalité
+
+<p>Ce chapitre introduit les fonctions élémentaires de transformation d'une égalité :</p>
+ <ul>
+  <li>les opérations à gauche et à droite, qui permettent de “passer un terme de l’autre côté” en changeant son signe ...</li>
+  <li>les combinaisons d’égalité, qui permettent typiquement de résoudre des systèmes d’équation</li>
+ </ul>
+
+<p>Ce chapitre de prise en main de l'assistant de démonstration edukera, présente les 5 actions de démonstrations, au travers d'exercices élémentaires guidés et commentés :</p>
+ <ul>
+  <li>
+   <text style="color:#00ace7">
+     Justifier
+   </text> une proposition</li>
+  <li>
+   <text style="color:#00ace7">
+     Déduire
+   </text> d'une proposition</li>
+  <li>
+   <text style="color:#00ace7">
+     Identifier
+   </text> une proposition avec une autre</li>
+  <li>
+   <text style="color:#00ace7">
+     Résoudre
+   </text> une inconnue de raisonnement</li>
+  <li>
+   <text style="color:#00ace7">
+     Réécrire
+   </text> un terme par un autre qui lui est égale.</li>
+ </ul>
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/calculus_eq_seg_tutorial) | | 23 |
@@ -143,6 +226,19 @@
 | [Equations]( ./h5p/calculus_eq_seg_rew_equation.h5p) | | 3 |
 | [Systèmes d''équations]( ./h5p/calculus_eq_seg_comb.h5p) | | 4 |
 ## Réécritures
+
+<p>Les réécritures permettent de déduire d’une égalité, une égalité presque identique dans laquelle un terme
+  <!--{type="expr" input="a"}--> est remplacé par un terme
+  <!--{type="expr" input="b"}-->, à condition que
+  <!--{type="prop" sci="true" style="vertical-align:-3px;" input="a = b"}-->.</p>
+ <p> Les réécritures de a en b sont données par le calcul algébrique :</p>
+ <ul>
+  <li>factorisation, développement</li>
+  <li>idéntitiés remarquables</li>
+  <li>simplifications</li>
+ </ul>
+
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/calculus_rewrite_tutorial) | | 17 |
@@ -152,6 +248,17 @@
 | [Equations]( ./h5p/calculus_rewrite_rew3_equation.h5p) | | 7 |
 | [Systèmes d''équations]( ./h5p/calculus_rewrite_rew_system.h5p) | | 10 |
 ## Inégalités
+
+<p>Les inégalités comparent deux nombres réels. Elles se transforment de manière similaire aux égalités :</p>
+ <ul>
+  <li>opérations à gauche et à droite</li>
+  <li>combinaisons (addition, soustraction)</li>
+  <li>applications de fonctions (opposé, carré, racine, …)</li>
+  <li>…</li>
+ </ul>
+ <p>Si la transformation appliquée à gauche et à droite d’une inégalité est une fonction décroissante, le sens de l’inégalité entre les valeurs obtenues est inversé.</p>
+
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/calculus_ineq_seg_tutorial) | | 14 |
@@ -160,6 +267,14 @@
 | [Inéquations]( ./h5p/calculus_ineq_seg_ineqs.h5p) | | 11 |
 | [Divers]( ./h5p/calculus_ineq_seg_misc.h5p) | | 2 |
 ## Réécritures 2
+
+<p>Ce chapitre introduit la réécriture des fonctions de base du calcul algébrique : </p>
+ <ul>
+  <li>la fonction puissance et ses propriétés algébriques</li>
+  <li>la fonction valeur absolue</li>
+  <li>la fonction racine carrée</li>
+ </ul>
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/calculus_rewrite2_tutorial) | | 13 |
@@ -167,6 +282,13 @@
 | [Carrés presque parfaits]( ./h5p/calculus_rewrite2_rew3_almostsquare.h5p) | | 2 |
 | [Nombre d''or]( ./h5p/calculus_rewrite2_rew_gold.h5p) | | 3 |
 ## Sigma
+
+<p>La notation sigma représente la somme des termes d’une série de n nombres indéxés.
+
+ <p>Dans cette notation, l'indice k est une variable muette : elle n'est pas déclarée dans le contexte et n'est valable que pour l'expression sommée.</p>
+ <p>Les propriétés du sigma sont celles de l’addition (associativité, distributivité de la multiplication, …) et celles des changements d’écriture de l’indexation des nombres sommés.</p>
+
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/calculus_sigma_seg_tutorial) | | 10 |
@@ -181,14 +303,25 @@
 | [Factorielles]( ./h5p/calculus_prod_seg_prod_seg_fact.h5p) | | 5 |
 | [Coefficients binomiaux]( ./h5p/calculus_prod_seg_prod_seg_binom.h5p) | | 4 |
 # Analyse
+
+<p> Au cours du 19<span class="sup">ème</span> siècle, les mathématiciens posent les bases de l’analyse des propriétés des fonctions réelles (fonctions à valeur réelle) : continutité, convergence, limite, dérivation, intégration, ... </p>
+ <p></p>
+ <p> En France dès le début du siècle, étudie notamment les propriétés de convergence des suites croissantes positives, introduites dans ce chapitre. En Allemagne, <a href="https://fr.wikipedia.org/wiki/Bernhard_Riemann" target="_blank">Bernhard Riemann</a> et <a href="https://fr.wikipedia.org/wiki/Karl_Weierstrass" target="_blank">Karl Weierstrass</a> élaborent les théories de l’intégration et des limites de fonction. </p>
+
+
 ## Récurrence
+
+<p> Le <a href="https://fr.wikipedia.org/wiki/Raisonnement_par_r%C3%A9currence" target="_blank">raisonnement par récurrence</a> est un raisonnement incontournable, simple et puissant. Il permet de démontrer qu’une proposition P(n), dépendant d’un indice n, est vraie quelle que soit la valeur de l’indice, c’est à dire notamment vraie pour une infinité de valeurs de l’indice n. </p>
+ <p> Par exemple, sans le raisonnement par récurrence, il faudrait une infinité de calculs (ou une très grande quantité) pour avoir la certitude (ou quasi-certitude) que la proposition “4^n - 1 est divisible par 3” est vraie quelle que soit la valeur de n, alors qu’un raisonnement par récurrence donne la certitude en quelques lignes de démonstration. </p>
+
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [Calculs de somme]( ./h5p/analysis_analysis_induction_ind_sum.h5p) | | 9 |
 | [Inégalités]( ./h5p/analysis_analysis_induction_ind_bernouilli.h5p) | | 4 |
 | [Divisibilité]( ./h5p/analysis_analysis_induction_ind_divis.h5p) | | 7 |
 | [Coefficients binomiaux]( ./h5p/analysis_analysis_induction_ind_binom.h5p) | | 2 |
-## 
+##
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [Listes]( ./h5p/analysis_logic_inductive_list_section.h5p) | | 1 |
@@ -202,6 +335,10 @@
 | [Suites bornées]( ./h5p/analysis_analysis_series_series_bounded.h5p) | | 9 |
 | [Sens de variation]( ./h5p/analysis_analysis_series_series_variation.h5p) | | 10 |
 ## Limites
+
+ <p>Ce chapitre introduit la définition de la <a href="https://fr.wikipedia.org/wiki/Limite_(mathématiques)" target="_blank">limite</a> d'une fonction (en l'infinie et en un point). Cette définition est utilisée pour démontrer les limites des fonctions de base.</p>
+ <p>Les règles de calcul de limite permettent de calcul la limite d'une fonction quelconque par calcul sur les limites des fonctions de base qui la composent.</p>
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [Constante]( ./h5p/analysis_analysis_limits_constant.h5p) | | 3 |
