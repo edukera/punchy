@@ -1,6 +1,6 @@
 var fs              = require('fs')
 var fs_extra        = require('fs-extra')
-const punchy        = require('../jsons/punchy.json');
+const punchy        = require('../json/punchy.json');
 const child_process = require("child_process")
 const build_dir = __dirname + '/../build'
 const template  = __dirname + '/H5P.IFrameEmbed-1.0'
@@ -10,30 +10,30 @@ if (!fs.existsSync(build_dir)) {
 }
 const get_h5p_config = (title) => {
   return {
-    "title": title,
-    "language": "fr",
-    "mainLibrary": "H5P.IFrameEmbed",
+    "title"       : title,
+    "language"    : "fr",
+    "mainLibrary" : "H5P.IFrameEmbed",
     "embedTypes": [
       "div"
     ],
-    "license": "GNU GPL",
-    "defaultLanguage": "fr",
+    "license"              : "GNU GPL",
+    "defaultLanguage"      : "fr",
     "preloadedDependencies": [
       {
-        "machineName": "H5P.IFrameEmbed",
-        "majorVersion": "1",
-        "minorVersion": "0"
+        "machineName"  : "H5P.IFrameEmbed",
+        "majorVersion" : "1",
+        "minorVersion" : "0"
       }
     ]
   }
 }
 const get_content = (id) => {
   return {
-    "width": "500px",
-    "height": "300px",
-    "minWidth": "400px",
-    "source": "https://app.edukera.com/?punchy_id=" + id,
-    "resizeSupported": true
+    "width"           : "500px",
+    "height"          : "300px",
+    "minWidth"        : "400px",
+    "source"          : "https://app.edukera.com/?punchy_id=" + id,
+    "resizeSupported" : true
   }
 }
 const zip = (dir, target) => {
