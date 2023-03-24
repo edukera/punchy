@@ -2,25 +2,27 @@ Ce document présente les exercices [Edukera](https://edukera.com/) fournis en c
 
 * [Formalisation](#formalisation)
 * [Logique](#logique)
-  * [Connecteurs](#connecteurs)
-  * [Quantificateurs](#quantificateurs)
-* [Théorie des ensembles](#ensembles)
+  * [Connecteurs](#connecteurs) *
+  * [Quantificateurs](#quantificateurs) *
+* [Théorie des ensembles](#ensembles) *
   * [Didacticiel](#didacticiel)
   * [Propriétés](#propriétés)
   * [Calculs ensemblistes](#calculs-ensemblistes)
   * [Relations](#relations)
   * [Fonctions](#fonctions)
 * [Calcul algébrique](#calcul-algébrique)
-  * [Egalité](#egalité)
-  * [Réécritures](#réécritures)
+  * [Egalité](#egalité) *
+  * [Réécritures](#réécritures) *
   * [Inégalités](#inégalités)
   * [Réécritures 2](#réécritures-2)
   * [Sigma](#Sigma)
   * [Produit](#produit)
 * [Analyse](#analyse)
-  * [Récurrence](#récurrence)
+  * [Récurrence](#récurrence) *
   * [Suites](#suites)
   * [Limites](#limites)
+
+Les astérisques * indiquent l'existence d'une vidéo youtube de réalisation et commentaire des exercices de didacticiel. La playlist est disponible [ici](https://www.youtube.com/playlist?list=PLFuW3DlAYXgeCDTEp-97FzMqQ8iczK6Nw) (2h30 de vidéos).
 
 # Formalisation
 
@@ -81,6 +83,8 @@ Les exercices de formalisation consistent à traduire des phrases en langage nat
   <li>une règle permettant de déduire une nouvelle proposition : que peut on déduire de "A ∧ B" ?</li>
  </ul>
 
+ Vidéo de résolution et commentaire des exercices du didacticiel: [ici](https://youtu.be/pixqYKVM7ug)
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/logic_logic_connector_tutorial) | | 27 |
@@ -99,6 +103,8 @@ Les exercices de formalisation consistent à traduire des phrases en langage nat
 <p>Les propositions mathématiques peuvent également être des formules avec des variables prenant certaines valeurs : par exemple “3 est un nombre premier” peut être considéré comme la formule “x est un nombre premier” où la variable “x” prend la valeur “3”.</p>
  <p> Pour une formule à variable, on a besoin d’exprimer que la proposition obtenue est vraie <u>quelle que soit la valeur de la variable</u>, ou qu’<u>il existe au moins une valeur</u> pour laquelle la proposition est vraie. Ces nouveaux éléments de langage sont les quantificateurs. </p>
 
+Vidéo de résolution et commentaire des exercices du didacticiel: [ici](https://youtu.be/RV_LmHmKI78)
+
 | Resource | Description | Nb exercices |
 |---|---|---|
 | [ Didacticiel ]( ./h5p/logic_logic_quantifier_tutorial) | | 8 |
@@ -114,6 +120,8 @@ Les exercices de formalisation consistent à traduire des phrases en langage nat
 # Ensembles
 
 <p> A la fin du 19<span class="sup">ème</span> siècle, le mathématicien allemand <a href="https://fr.wikipedia.org/wiki/Georg_Cantor" target="_blank">Georg Cantor</a> élabore la <a href="https://fr.wikipedia.org/wiki/Th%C3%A9orie_des_ensembles" target="_blank">théorie des ensembles</a>. Elle permet de définir les éléments fondamentaux des mathématiques, notamment les nombres entiers, les nombres réels, les fonctions ... </p>
+
+Vidéo de résolution et commentaire des exercices du didacticiel: [ici](https://youtu.be/VQtkYjjgKXs)
 
 ## Didacticiel
 | Resource | Description | Nb exercices |
@@ -203,6 +211,8 @@ Les exercices de formalisation consistent à traduire des phrases en langage nat
 
 ## Egalité
 
+Vidéo de résolution et commentaire des exercices du didacticiel: [ici](https://youtu.be/mixiUHLyYiI)
+
 <p>Ce chapitre introduit les fonctions élémentaires de transformation d'une égalité :</p>
  <ul>
   <li>les opérations à gauche et à droite, qui permettent de “passer un terme de l’autre côté” en changeant son signe ...</li>
@@ -243,6 +253,8 @@ Les exercices de formalisation consistent à traduire des phrases en langage nat
 | [Systèmes d''équations]( ./h5p/calculus_eq_seg_comb.h5p) | | 4 |
 ## Réécritures
 
+Vidéo de résolution et commentaire des exercices du didacticiel: [ici](https://youtu.be/Ln0sacll1ew)
+
 <p>Les réécritures permettent de déduire d’une égalité, une égalité presque identique dans laquelle un terme
   <!--{type="expr" input="a"}--> est remplacé par un terme
   <!--{type="expr" input="b"}-->, à condition que
@@ -263,6 +275,7 @@ Les exercices de formalisation consistent à traduire des phrases en langage nat
 | [Formes canoniques]( ./h5p/calculus_rewrite_rew_canonical_form.h5p) | | 14 |
 | [Equations]( ./h5p/calculus_rewrite_rew3_equation.h5p) | | 7 |
 | [Systèmes d''équations]( ./h5p/calculus_rewrite_rew_system.h5p) | | 10 |
+
 ## Inégalités
 
 <p>Les inégalités comparent deux nombres réels. Elles se transforment de manière similaire aux égalités :</p>
@@ -326,6 +339,8 @@ Les exercices de formalisation consistent à traduire des phrases en langage nat
 
 
 ## Récurrence
+
+Vidéo de résolution et commentaire des exercices du didacticiel: [ici](https://youtu.be/ManlbQvuo_4)
 
 <p> Le <a href="https://fr.wikipedia.org/wiki/Raisonnement_par_r%C3%A9currence" target="_blank">raisonnement par récurrence</a> est un raisonnement incontournable, simple et puissant. Il permet de démontrer qu’une proposition P(n), dépendant d’un indice n, est vraie quelle que soit la valeur de l’indice, c’est à dire notamment vraie pour une infinité de valeurs de l’indice n. </p>
  <p> Par exemple, sans le raisonnement par récurrence, il faudrait une infinité de calculs (ou une très grande quantité) pour avoir la certitude (ou quasi-certitude) que la proposition “4^n - 1 est divisible par 3” est vraie quelle que soit la valeur de n, alors qu’un raisonnement par récurrence donne la certitude en quelques lignes de démonstration. </p>
